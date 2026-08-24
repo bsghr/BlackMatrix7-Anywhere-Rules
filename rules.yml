@@ -1,18 +1,18 @@
 rules:
 
-- name: Advertising
-  format: shadowrocket
-  source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Advertising/Advertising.list
-  output: rules/Advertising.arrs
-  routing: 2
-  description: Advertising 广告拦截规则
+  - name: Advertising
+    format: shadowrocket
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Advertising/Advertising.list
+    output: rules/Advertising.arrs
+    routing: 2
+    description: Advertising 广告拦截规则
 
-- name: Advertising_Domain
-  format: shadowrocket-domain
-  source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Advertising/Advertising_Domain.list
-  output: rules/Advertising_Domain.arrs
-  routing: 2
-  description: Advertising 域名广告拦截规则
+  - name: Advertising_Domain
+    format: shadowrocket-domain
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Advertising/Advertising_Domain.list
+    output: rules/Advertising_Domain.arrs
+    routing: 2
+    description: Advertising 域名广告拦截规则
 
   - name: ChinaMax
     format: shadowrocket
