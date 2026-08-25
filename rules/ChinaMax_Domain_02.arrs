@@ -2,15 +2,70 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
-# RULES: 11552
-# SOURCE-RULES: 11552
+# RULES: 11618
+# SOURCE-RULES: 11618
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-08-22 02:31:42
+# UPSTREAM-UPDATED: 2026-08-26 02:35:37
 # SKIPPED: 0
 # PART: 2/2
 
 name = ChinaMax_Domain_02
 routing = 0
+2, xlaidudu.info
+2, xlaidudu.net
+2, xlaomi.net
+2, xlbsoft.com
+2, xlcai.com
+2, xlcidc.com
+2, xlcjzx.com
+2, xlctyd.com
+2, xlczg.com
+2, xldlive.com
+2, xldz.com
+2, xlewen5.com
+2, xlfred.com
+2, xlgao.com
+2, xlgjg.net
+2, xlgogo.com
+2, xlgtx.com
+2, xlgxapp.com
+2, xlhb.com
+2, xlhbgroup.com
+2, xlhfmj.xin
+2, xlhhy.com
+2, xlhk.net
+2, xlhs.com
+2, xlhyc.com
+2, xlinclass.com
+2, xlisp.net
+2, xljly.com
+2, xljnjy.com
+2, xljsci.com
+2, xlkdyf.com
+2, xlkorganic.com
+2, xlkshop.com
+2, xlkty.com
+2, xlm258.com
+2, xlmarathon.com
+2, xlmr.com
+2, xlmz.net
+2, xlndt.com
+2, xlobo.com
+2, xlongm.com
+2, xloveyoux.com
+2, xlpai.com
+2, xlpan.com
+2, xlps.site
+2, xlqeai.com
+2, xlqzh.com
+2, xlread.com
+2, xlreads.com
+2, xlsdn.com
+2, xlsemi.com
+2, xlshou.com
+2, xlsxmj.com
+2, xltll.com
+2, xltnjslfd.com
 2, xlwl95.com
 2, xlxkgjt.com
 2, xlxqsgf.com
@@ -211,6 +266,7 @@ routing = 0
 2, xn--55qx2ag79c1iq.com
 2, xn--55qzsxj5y4ozkz93dswptmau4jc88dg75ctid8raf29c.com
 2, xn--5kv317c.com
+2, xn--65qy41j.com
 2, xn--6fr40zm5ai2go3cnse89dtttbrb.com
 2, xn--6fr61zj8c92fg34d.com
 2, xn--6kr66fp2ep1ac5edz2hy7s2wq.com
@@ -293,6 +349,7 @@ routing = 0
 2, xn--n5q75cia631gba51vx4ag2a008o08l1t0adzay2skp4b.com
 2, xn--n6qy1xeobw60f.net
 2, xn--ncym25ahib.net
+2, xn--nlya.cc
 2, xn--nmqp78hmufjwu.com
 2, xn--ntso8dsz1borbzvfm5h.com
 2, xn--ntsp37j.net
@@ -341,6 +398,7 @@ routing = 0
 2, xn--w9qr0k.com
 2, xn--w9qy23cc6adz7d.net
 2, xn--wbsz85a2a.com
+2, xn--wlq49r6tr7zal0u.com
 2, xn--wxtr44c.live
 2, xn--xcry9n251cvcar5xj6r.com
 2, xn--xhq60k09cr85at2f494d.com
@@ -601,6 +659,7 @@ routing = 0
 2, xsnsyh.com
 2, xsool.com
 2, xsp0311.com
+2, xspacexx.org
 2, xsphs.com
 2, xspinfo.com
 2, xspio.com
@@ -835,6 +894,7 @@ routing = 0
 2, xuelema.com
 2, xueleyun.com
 2, xueli9.com
+2, xuelian.live
 2, xueliedu.com
 2, xueming.li
 2, xuenarui.com
@@ -2291,6 +2351,7 @@ routing = 0
 2, yd-tec.com
 2, yd166.com
 2, yd43s2q51b.com
+2, yd666cdn.com
 2, ydadmob.com
 2, ydalison.com
 2, ydamc.com
@@ -2545,6 +2606,7 @@ routing = 0
 2, yetianlian.info
 2, yettos.com
 2, yetu.net
+2, yew734.com
 2, yewanba.com
 2, yewen.us
 2, yewuyuan.com
@@ -4904,6 +4966,7 @@ routing = 0
 2, yscq.com
 2, yscro.com
 2, ysczw.com
+2, ysdp.online
 2, ysdwe.asia
 2, ysedu.com
 2, ysej.com
@@ -5871,6 +5934,7 @@ routing = 0
 2, yunzhu100.com
 2, yunzhuan.com
 2, yunzhuangbei.com
+2, yunzhuru.com
 2, yunzhuxue.com
 2, yunzitraining.com
 2, yunzmall.com
@@ -10069,6 +10133,7 @@ routing = 0
 2, znlerp.com
 2, znlh.com
 2, znmq.com
+2, znncb372.com
 2, znnu.com
 2, znonline.net
 2, znp9.com
@@ -11158,6 +11223,7 @@ routing = 0
 2, zzjdgcxx.com
 2, zzjianyun.com
 2, zzjidi.com
+2, zzjjyzx.com
 2, zzjldsx.com
 2, zzjob88.com
 2, zzjsled.com
