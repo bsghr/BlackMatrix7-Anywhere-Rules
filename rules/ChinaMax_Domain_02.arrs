@@ -2,124 +2,15 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
-# RULES: 11344
-# SOURCE-RULES: 11344
+# RULES: 11231
+# SOURCE-RULES: 11231
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-02 04:27:59
+# UPSTREAM-UPDATED: 2026-09-04 04:26:26
 # SKIPPED: 0
 # PART: 2/2
 
 name = ChinaMax_Domain_02
 routing = 0
-2, xn--91-y60d638c.xyz
-2, xn--9kr72kqwe.com
-2, xn--9myo55bi8l.com
-2, xn--9pr56vfna007k.com
-2, xn--9pry86bq5ex68c.org
-2, xn--b0t462i.com
-2, xn--b0tp7p3met2a.com
-2, xn--b0tp7p3met2a.net
-2, xn--bjq584at06c.shop
-2, xn--btvs3aw8fhtbms310k.com
-2, xn--btvu9x9qgt8c.com
-2, xn--bxyy83e.net
-2, xn--cesw6hd3s99f.com
-2, xn--cesx3oukw29l.com
-2, xn--chq7lp8e46htw3g.com
-2, xn--chq84itwgrb674blm6f.com
-2, xn--cjztj18l.com
-2, xn--cpqr0dg9g4t0fodaq5c.com
-2, xn--cssw8z54rj2ds2q.com
-2, xn--czru2dx3eszw3lat53b.com
-2, xn--dev407h.com
-2, xn--djr58xb1mzxk3mtrhfc8g.com
-2, xn--dkr447bejn.com
-2, xn--dkr447bejn.net
-2, xn--dll-8n0e103bz5hg93c.site
-2, xn--dlq10g6xfkw4a201b.com
-2, xn--dlqu6kw2e2n3aolseyrfhn.com
-2, xn--dlqw10borzgxh.com
-2, xn--dtq23gl66e.com
-2, xn--eh1a34ykpl.com
-2, xn--fhq79jyym9nh74hfm8a.com
-2, xn--fiq03fftg7m2c.com
-2, xn--fiq06jqoz14s.com
-2, xn--fiq60luzcp97a7oxivr99k.org
-2, xn--fiq6q20pz51d.com
-2, xn--fiq73f39fwr0b4wk.net
-2, xn--fiq7v55hnsepqz.net
-2, xn--fiqs8sr9ge7eb4b28vo92a.com
-2, xn--fiqu59c0hf2sy.net
-2, xn--fiqw8jl3h7xc25m753d.link
-2, xn--fiqx7ci2whnj.com
-2, xn--fjq5py34j65v.com
-2, xn--glr604k.com
-2, xn--gmq22ktps713c.cc
-2, xn--gmqr9gdtrhuf56g.com
-2, xn--h5qy75o.vip
-2, xn--husx9zj2eepau0se83d.com
-2, xn--hutn94av9amzg.net
-2, xn--i6q33br88fkud.com
-2, xn--igry70bi8kqt9a.org
-2, xn--igt225itqf.com
-2, xn--it-if7c19g5s4bps5c.com
-2, xn--jh1a128b.com
-2, xn--jor0b302fdhgwnccw8g.com
-2, xn--jpr47zq87axwjc0d.com
-2, xn--jxqz98c.com
-2, xn--jxuv1s.net
-2, xn--kivq8be3whsi.com
-2, xn--l9qya49g86gm9ghpbzy1dwl0fppo.com
-2, xn--lt0at3k.com
-2, xn--mct72chgrm.net
-2, xn--mes380bwhsoec.com
-2, xn--mmz.cc
-2, xn--mnqs00c24c2pw0ii.com
-2, xn--mts196b.net
-2, xn--n5q75cia631gba51vx4ag2a008o08l1t0adzay2skp4b.com
-2, xn--n6qy1xeobw60f.net
-2, xn--ncym25ahib.net
-2, xn--nlya.cc
-2, xn--nmqp78hmufjwu.com
-2, xn--ntso8dsz1borbzvfm5h.com
-2, xn--ntsp37j.net
-2, xn--nyqx2gbsm8u0b.com
-2, xn--omrvgz6er31au6f.com
-2, xn--p5t28ylet56a.com
-2, xn--pss89e6xl72g.com
-2, xn--ptua509t.com
-2, xn--q20av2y36ac54a.com
-2, xn--qzwx3ij21azka.com
-2, xn--r8s65df7admf92a.com
-2, xn--rhqr3ykwbm05aegjqxb.com
-2, xn--rhqt5j7qj6mj.com
-2, xn--rht439a44bdyk.com
-2, xn--riqi041otpd.com
-2, xn--ror-j59d107t.net
-2, xn--rpv331d.com
-2, xn--rss237b.com
-2, xn--rss404ac6aj60e.net
-2, xn--ruqs20ac8b5z7av8ir2u.net
-2, xn--ruqz9zcojm5sf19a.com
-2, xn--s4t325g.com
-2, xn--sgt856gbjl.cc
-2, xn--sosw2ge0bs10aoq0a.com
-2, xn--sss604efuw.com
-2, xn--swts8irvtrtr.com
-2, xn--tfr181fg2az43a.com
-2, xn--tkr55q2oa097dyxe209c.com
-2, xn--tlq092au7hsi3a.com
-2, xn--tlqz3aj77agil76ww4ni2k.com
-2, xn--tqq89g2tjj5x8xs.com
-2, xn--vcsu51b3zccpm.com
-2, xn--vhq3m33sbqhpsmtnuxfq.com
-2, xn--vhq3mr8b802a.net
-2, xn--vhq4ut2dsxd5xqnicjxxo55a756aovhik0aunm.com
-2, xn--vhq72yfwbt0elp2cpkhtld55g73l1o6a.com
-2, xn--vhqqbz2p62hm92e04p.com
-2, xn--vhqr42drhf5k7b.com
-2, xn--vhqu1kbz3bnbi.com
-2, xn--viq463a.com
 2, xn--vq3a5gj6c9i.com
 2, xn--w9q313dfn4a.com
 2, xn--w9qr0k.com
@@ -2127,6 +2018,7 @@ routing = 0
 2, ydjwy.net
 2, ydjy.net
 2, ydkj2019.com
+2, ydkkej.com
 2, ydl-sh.com
 2, ydl.com
 2, ydlcdn.com
@@ -3917,7 +3809,6 @@ routing = 0
 2, ynzs.com
 2, ynztrq.com
 2, ynzy-tobacco.com
-2, ynzzwl.com
 2, yo4399.com
 2, yo9.com
 2, yoagoa.com
@@ -4224,7 +4115,6 @@ routing = 0
 2, youked.com
 2, youkeda.com
 2, youkego.com
-2, youkexueyuan.com
 2, youkia.com
 2, youkia.net
 2, youking.com
@@ -5245,7 +5135,6 @@ routing = 0
 2, yulinhuaran.com
 2, yulinjue.com
 2, yulinqj.com
-2, yulins.com
 2, yulinshidefu.com
 2, yulinyw.com
 2, yuliqx.com
@@ -6146,7 +6035,6 @@ routing = 0
 2, yyzqta.com
 2, yyzqtb.com
 2, yyzsoft.com
-2, yyzxcj.com
 2, yyzzqk.com
 2, yyzzsem.com
 2, yz-iot.com
@@ -6510,7 +6398,6 @@ routing = 0
 2, zbcars.com
 2, zbchem.com
 2, zbcyrq.com
-2, zbczce.com
 2, zbdedu.com
 2, zbdzy.com
 2, zbgarden.cc
@@ -10636,6 +10523,7 @@ routing = 0
 2, zxblinux.com
 2, zxbook.net
 2, zxbzr.com
+2, zxc123zxc123.xyz
 2, zxchemgroup.com
 2, zxcmk.com
 2, zxcoder.com
@@ -10883,7 +10771,6 @@ routing = 0
 2, zz-invest.com
 2, zz.ci
 2, zz123456789.xyz
-2, zz2024.com
 2, zz2z.com
 2, zz314.com
 2, zz34.com
