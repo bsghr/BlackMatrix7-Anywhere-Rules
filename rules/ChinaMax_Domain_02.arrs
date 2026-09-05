@@ -2,15 +2,32 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
-# RULES: 11231
-# SOURCE-RULES: 11231
+# RULES: 11251
+# SOURCE-RULES: 11251
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-04 04:26:26
+# UPSTREAM-UPDATED: 2026-09-06 03:54:36
 # SKIPPED: 0
 # PART: 2/2
 
 name = ChinaMax_Domain_02
 routing = 0
+2, xn--sosw2ge0bs10aoq0a.com
+2, xn--sss604efuw.com
+2, xn--swts8irvtrtr.com
+2, xn--tfr181fg2az43a.com
+2, xn--tkr55q2oa097dyxe209c.com
+2, xn--tlq092au7hsi3a.com
+2, xn--tlqz3aj77agil76ww4ni2k.com
+2, xn--tqq89g2tjj5x8xs.com
+2, xn--vcsu51b3zccpm.com
+2, xn--vhq3m33sbqhpsmtnuxfq.com
+2, xn--vhq3mr8b802a.net
+2, xn--vhq4ut2dsxd5xqnicjxxo55a756aovhik0aunm.com
+2, xn--vhq72yfwbt0elp2cpkhtld55g73l1o6a.com
+2, xn--vhqqbz2p62hm92e04p.com
+2, xn--vhqr42drhf5k7b.com
+2, xn--vhqu1kbz3bnbi.com
+2, xn--viq463a.com
 2, xn--vq3a5gj6c9i.com
 2, xn--w9q313dfn4a.com
 2, xn--w9qr0k.com
@@ -3012,6 +3029,7 @@ routing = 0
 2, yinjiabio.com
 2, yinjispace.com
 2, yinka.co
+2, yinkead.com
 2, yinlimedia.com
 2, yinlingshuyuan.com
 2, yinlvaa.com
@@ -6543,6 +6561,7 @@ routing = 0
 2, zcosz.com
 2, zcowh.com
 2, zcpc.net
+2, zcpin.com
 2, zcpm.net
 2, zcpzj.com
 2, zcqh.com
@@ -10832,6 +10851,7 @@ routing = 0
 2, zzhybz.com
 2, zzicpa.com
 2, zzidc.com
+2, zzimti.com
 2, zzjdgcxx.com
 2, zzjianyun.com
 2, zzjidi.com
