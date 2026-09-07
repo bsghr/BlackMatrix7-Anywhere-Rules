@@ -3,9 +3,9 @@
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
 # RULES: 100000
-# SOURCE-RULES: 111251
+# SOURCE-RULES: 111268
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-06 03:54:36
+# UPSTREAM-UPDATED: 2026-09-08 05:04:49
 # SKIPPED: 0
 # PART: 1/2
 
@@ -6626,6 +6626,7 @@ routing = 0
 2, 602ab6ff810251.beer
 2, 602img.com
 2, 60301c31eca86940.com
+2, 60353595.com
 2, 603603b.com
 2, 603603d.com
 2, 603966.com
@@ -32353,6 +32354,7 @@ routing = 0
 2, eqxiuzhan.com
 2, eqyn.com
 2, er07.com
+2, er3w.com
 2, er8gmvwi54p5x1.com
 2, eraclean.com
 2, eraedu.com
@@ -38619,6 +38621,7 @@ routing = 0
 2, gomegj.com
 2, gomeholdings.com
 2, gomehome.com
+2, gomeishop.com
 2, gomeplus.com
 2, gomo.com
 2, gomocdn.com
@@ -39386,6 +39389,7 @@ routing = 0
 2, gu166.com
 2, gu360.com
 2, gua123.com
+2, gua9.com
 2, guabu.com
 2, guaguay.com
 2, guahao-inc.com
@@ -48609,6 +48613,7 @@ routing = 0
 2, hyhro.com
 2, hyhscm.com
 2, hyht.fun
+2, hyhudong.com
 2, hyhuo.com
 2, hyhxt.net
 2, hyhy.cc
@@ -50579,6 +50584,7 @@ routing = 0
 2, img4399.com
 2, img4me.com
 2, img898.com
+2, img9g2026.com
 2, imgbed.link
 2, imgcdc.com
 2, imgchr.com
@@ -58287,6 +58293,7 @@ routing = 0
 2, ksco.cc
 2, ksdedu.com
 2, ksdhgy.com
+2, ksdyob.store
 2, ksecit.com
 2, ksedt.com
 2, kseibitools.com
@@ -62908,6 +62915,7 @@ routing = 0
 2, lygsgt.com
 2, lygshjd.com
 2, lygshlxh.com
+2, lygtylk.com
 2, lygxwmarathon.com
 2, lygxwxqrmyy.com
 2, lygyyjt.com
@@ -64108,6 +64116,7 @@ routing = 0
 2, mcfun.tv
 2, mcfxw.com
 2, mcgsjt.com
+2, mcgyaht1023.com
 2, mchifi.com
 2, mchim.net
 2, mchost.guru
@@ -64251,6 +64260,7 @@ routing = 0
 2, mediatek.com
 2, mediaxinan.com
 2, medical-union.com
+2, medicalimagecloud.com
 2, medicalqc.com
 2, medicexam.net
 2, mediecogroup.com
@@ -69417,6 +69427,7 @@ routing = 0
 2, nordkete.com
 2, nordonfire.com
 2, nordritools.com
+2, norglo.com
 2, norinco-vehicle.com
 2, norinco.com
 2, norincogroup-ebuy.com
@@ -81191,6 +81202,7 @@ routing = 0
 2, shougongke.net
 2, shougoumingbiao.com
 2, shouhaoche.com
+2, shouhou.xin
 2, shouhougou.com
 2, shouhui.com
 2, shouhuigroup.com
@@ -92912,6 +92924,7 @@ routing = 0
 2, vvbin.com
 2, vvebo.vip
 2, vvfeng.com
+2, vvghj1023.com
 2, vvgroup.com
 2, vvhan.com
 2, vvhcwpddaa.com
@@ -94903,6 +94916,7 @@ routing = 0
 2, whjuren.com
 2, whjxbaby.com
 2, whjy.net
+2, whjyapp.com
 2, whjyx.com
 2, whjyxh.com
 2, whjyxx.com
@@ -99739,6 +99753,7 @@ routing = 0
 2, xmalaya.com
 2, xmamiga.com
 2, xmanblog.net
+2, xmaosms.com
 2, xmasg.com
 2, xmayitxt.com
 2, xmbankonline.com
@@ -99996,18 +100011,3 @@ routing = 0
 2, xn--p5t28ylet56a.com
 2, xn--pss89e6xl72g.com
 2, xn--ptua509t.com
-2, xn--q20av2y36ac54a.com
-2, xn--qzwx3ij21azka.com
-2, xn--r8s65df7admf92a.com
-2, xn--rhqr3ykwbm05aegjqxb.com
-2, xn--rhqt5j7qj6mj.com
-2, xn--rht439a44bdyk.com
-2, xn--riqi041otpd.com
-2, xn--ror-j59d107t.net
-2, xn--rpv331d.com
-2, xn--rss237b.com
-2, xn--rss404ac6aj60e.net
-2, xn--ruqs20ac8b5z7av8ir2u.net
-2, xn--ruqz9zcojm5sf19a.com
-2, xn--s4t325g.com
-2, xn--sgt856gbjl.cc
