@@ -2,21 +2,19 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMax 中国大陆规则
 # SOURCE-FORMAT: shadowrocket
-# RULES: 12521
-# SOURCE-RULES: 12587
+# RULES: 12531
+# SOURCE-RULES: 12597
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax.list
-# UPSTREAM-UPDATED: 2026-09-10 04:22:03
+# UPSTREAM-UPDATED: 2026-09-12 04:21:27
 # SKIPPED: 66
 # SKIPPED-TYPES: IP-ASN=1, USER-AGENT=65
 
 name = ChinaMax
 routing = 0
-2, alibaba
-2, taobao
-2, tmall
+2, alipay
 2, cn
 2, ms
-2, alipay
+2, alibaba
 2, anquan
 2, baidu
 2, citic
@@ -24,6 +22,8 @@ routing = 0
 2, shouji
 2, sina
 2, sohu
+2, taobao
+2, tmall
 2, unicom
 2, wang
 2, weibo
@@ -71,10 +71,10 @@ routing = 0
 3, officecdn
 3, taobao
 3, bilibili
+3, qiyi
 3, hnagroup
 3, stripe
 3, weibo
-3, qiyi
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -3551,6 +3551,7 @@ routing = 0
 0, 14.196.0.0/15
 0, 14.204.0.0/15
 0, 14.208.0.0/12
+0, 14.238.34.0/24
 0, 14.255.16.0/24
 0, 14.255.238.0/24
 0, 14.255.249.0/24
@@ -4566,10 +4567,15 @@ routing = 0
 0, 2001:4510::/29
 0, 2001:470:ee53::/48
 0, 2001:500:15:3200::/56
+0, 2001:678:12b8::/48
+0, 2001:678:12c4::/48
+0, 2001:678:12cc::/48
+0, 2001:67c:2c1c::/48
 0, 2001:67c:a1c::/48
 0, 2001:67c:a38:f086::/64
 0, 2001:67c:aec::/48
 0, 2001:67c:c28::/48
+0, 2001:67c:ebc::/48
 0, 2001:7fa:10::/48
 0, 2001:7fa:5::/48
 0, 2001:c68::/32
@@ -4634,6 +4640,7 @@ routing = 0
 0, 2001:df3:b380::/48
 0, 2001:df3:c380::/48
 0, 2001:df3:c680::/48
+0, 2001:df3:d0c0::/48
 0, 2001:df3:d880::/48
 0, 2001:df3:ed80::/48
 0, 2001:df3:ef80::/48
@@ -4654,7 +4661,11 @@ routing = 0
 0, 2001:df4:cf00::/48
 0, 2001:df4:d80::/48
 0, 2001:df4:de80::/48
+0, 2001:df4:e140::/48
+0, 2001:df4:e142::/47
 0, 2001:df5:2080::/48
+0, 2001:df5:2fc0::/48
+0, 2001:df5:4cc0::/48
 0, 2001:df5:5f80::/48
 0, 2001:df5:7800::/48
 0, 2001:df6:100::/48
@@ -9460,7 +9471,7 @@ routing = 0
 0, 2406:840:a18::/45
 0, 2406:840:a20::/44
 0, 2406:840:a30::/48
-0, 2406:840:a32::/47
+0, 2406:840:a33::/48
 0, 2406:840:a34::/46
 0, 2406:840:a38::/45
 0, 2406:840:a40::/42
@@ -11464,7 +11475,6 @@ routing = 0
 0, 38.103.64.26/32
 0, 38.105.24.0/21
 0, 38.12.255.0/24
-0, 38.134.56.0/24
 0, 38.134.58.0/23
 0, 38.181.0.0/19
 0, 38.181.32.0/23
