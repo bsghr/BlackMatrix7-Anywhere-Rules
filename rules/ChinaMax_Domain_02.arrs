@@ -2,16 +2,15 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
-# RULES: 11269
-# SOURCE-RULES: 11269
+# RULES: 11268
+# SOURCE-RULES: 11268
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-12 04:21:27
+# UPSTREAM-UPDATED: 2026-09-14 04:10:13
 # SKIPPED: 0
 # PART: 2/2
 
 name = ChinaMax_Domain_02
 routing = 0
-2, xn--q20av2y36ac54a.com
 2, xn--qzwx3ij21azka.com
 2, xn--r8s65df7admf92a.com
 2, xn--rhqr3ykwbm05aegjqxb.com

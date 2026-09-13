@@ -3,9 +3,9 @@
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
 # RULES: 100000
-# SOURCE-RULES: 111269
+# SOURCE-RULES: 111268
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-12 04:21:27
+# UPSTREAM-UPDATED: 2026-09-14 04:10:13
 # SKIPPED: 0
 # PART: 1/2
 
@@ -83784,7 +83784,6 @@ routing = 0
 2, spsicloudport.com
 2, spsisctgroup.com
 2, spsisncl.com
-2, spst2.com
 2, spsy.org
 2, sptcc.com
 2, sptccn.com
@@ -100011,3 +100010,4 @@ routing = 0
 2, xn--p5t28ylet56a.com
 2, xn--pss89e6xl72g.com
 2, xn--ptua509t.com
+2, xn--q20av2y36ac54a.com
