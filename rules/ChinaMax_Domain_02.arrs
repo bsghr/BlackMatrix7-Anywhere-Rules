@@ -2,15 +2,21 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
-# RULES: 11268
-# SOURCE-RULES: 11268
+# RULES: 11277
+# SOURCE-RULES: 11277
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-20 03:56:06
+# UPSTREAM-UPDATED: 2026-09-22 05:34:28
 # SKIPPED: 0
 # PART: 2/2
 
 name = ChinaMax_Domain_02
 routing = 0
+2, xn--nyqx2gbsm8u0b.com
+2, xn--omrvgz6er31au6f.com
+2, xn--p5t28ylet56a.com
+2, xn--pss89e6xl72g.com
+2, xn--ptua509t.com
+2, xn--q20av2y36ac54a.com
 2, xn--qzwx3ij21azka.com
 2, xn--r8s65df7admf92a.com
 2, xn--rhqr3ykwbm05aegjqxb.com
@@ -4049,6 +4055,7 @@ routing = 0
 2, youbangyun.com
 2, youbbs.org
 2, youbian.com
+2, youbianku.com
 2, youbibi.com
 2, youbike.me
 2, youbikecn.com
@@ -8158,6 +8165,7 @@ routing = 0
 2, zhonglianhuashu.com
 2, zhonglianhuaxin.com
 2, zhonglianyx.com
+2, zhongliujie.com
 2, zhongliusp.com
 2, zhongliuyiyuan.com
 2, zhonglue-consulting.com
@@ -10367,6 +10375,7 @@ routing = 0
 2, zuixu.com
 2, zuiyanke.com
 2, zuiyou.com
+2, zuiyou.tv
 2, zuiyouxi.com
 2, zuizhifu.com
 2, zuji360.com

@@ -3,9 +3,9 @@
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
 # RULES: 100000
-# SOURCE-RULES: 111268
+# SOURCE-RULES: 111277
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-20 03:56:06
+# UPSTREAM-UPDATED: 2026-09-22 05:34:28
 # SKIPPED: 0
 # PART: 1/2
 
@@ -34821,6 +34821,7 @@ routing = 0
 2, fnos.net
 2, fnrcw.com
 2, fnrczp.com
+2, fnrrc.com
 2, fnsbqvz.com
 2, fnscore.com
 2, fnwlzz.com
@@ -38663,6 +38664,7 @@ routing = 0
 2, gongkongsaas.com
 2, gonglf.com
 2, gonglve.net
+2, gongniukaiguan.net
 2, gongnou.com
 2, gongpin.net
 2, gongpingjia.com
@@ -64177,6 +64179,7 @@ routing = 0
 2, mdbchina.com
 2, mdbimg.com
 2, mdclub.org
+2, mddclass.com
 2, mdddg.com
 2, mddj.com
 2, mddlsa.com
@@ -75305,6 +75308,7 @@ routing = 0
 2, qudao168.com
 2, qudaowuyou.com
 2, qudayun.com
+2, qudian.com
 2, qudingshui.com
 2, qudong.com
 2, qudong51.net
@@ -90846,6 +90850,7 @@ routing = 0
 2, uboat100.com
 2, uborn.net
 2, uboxol.com
+2, uboxs.com
 2, ubs001.com
 2, ubssdic.com
 2, ubtrobot.com
@@ -92953,6 +92958,7 @@ routing = 0
 2, vx.com
 2, vx56.com
 2, vxe.com
+2, vxhcm.com
 2, vxia.net
 2, vxiaocheng.com
 2, vxinyou.com
@@ -100005,9 +100011,3 @@ routing = 0
 2, xn--nmqp78hmufjwu.com
 2, xn--ntso8dsz1borbzvfm5h.com
 2, xn--ntsp37j.net
-2, xn--nyqx2gbsm8u0b.com
-2, xn--omrvgz6er31au6f.com
-2, xn--p5t28ylet56a.com
-2, xn--pss89e6xl72g.com
-2, xn--ptua509t.com
-2, xn--q20av2y36ac54a.com

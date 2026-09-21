@@ -2,10 +2,10 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMobile 中国移动规则
 # SOURCE-FORMAT: shadowrocket
-# RULES: 36
-# SOURCE-RULES: 36
+# RULES: 38
+# SOURCE-RULES: 38
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMobile/ChinaMobile.list
-# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+# UPSTREAM-UPDATED: 2026-09-22 05:33:45
 # SKIPPED: 0
 
 name = ChinaMobile
@@ -22,10 +22,12 @@ routing = 0
 2, cmccb2b.com
 2, cmdcl.cn
 2, cmdcxls.com
+2, cmecloud.cn
 2, cmicrwx.cn
 2, cmpassport.com
 2, cmvideo.cn
 2, cxzx10086.cn
+2, ecpan.cn
 2, fetion-portal.com
 2, fetionpic.com
 2, fxltsbl.com
