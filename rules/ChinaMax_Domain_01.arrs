@@ -3,9 +3,9 @@
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
 # RULES: 100000
-# SOURCE-RULES: 111277
+# SOURCE-RULES: 111278
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-22 05:34:28
+# UPSTREAM-UPDATED: 2026-09-24 05:00:30
 # SKIPPED: 0
 # PART: 1/2
 
@@ -82505,6 +82505,7 @@ routing = 0
 2, sjf029.com
 2, sjfcdn.com
 2, sjfh168.com
+2, sjfls6.com
 2, sjfpro.com
 2, sjfzxm.com
 2, sjg8.com
@@ -100010,4 +100011,3 @@ routing = 0
 2, xn--nlya.cc
 2, xn--nmqp78hmufjwu.com
 2, xn--ntso8dsz1borbzvfm5h.com
-2, xn--ntsp37j.net
