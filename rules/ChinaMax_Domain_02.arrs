@@ -2,60 +2,15 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMax 域名规则
 # SOURCE-FORMAT: shadowrocket-domain
-# RULES: 11521
-# SOURCE-RULES: 11521
+# RULES: 11471
+# SOURCE-RULES: 11471
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-# UPSTREAM-UPDATED: 2026-09-26 04:59:40
+# UPSTREAM-UPDATED: 2026-09-28 04:44:03
 # SKIPPED: 0
 # PART: 2/2
 
 name = ChinaMax_Domain_02
 routing = 0
-2, xmhitek.com
-2, xmhlcs.org
-2, xmhljx.net
-2, xmhouse.com
-2, xmht.com
-2, xmhx.com
-2, xmigc.com
-2, xminfoport.com
-2, xming.ai
-2, xminnov.com
-2, xmisp.com
-2, xmitic.com
-2, xmj1688.com
-2, xmjchyxh.com
-2, xmjiaruan.com
-2, xmjim.com
-2, xmjj3d.com
-2, xmjkbd.com
-2, xmjled.com
-2, xmjsci.com
-2, xmjslh.com
-2, xmjyw.com
-2, xmjzykj.com
-2, xmkanshu.com
-2, xmkj.beer
-2, xml-journal.net
-2, xmldz4.com
-2, xmlhifi.com
-2, xmlib.net
-2, xmlvbarcode.com
-2, xmmade.com
-2, xmmama.com
-2, xmmeiyou.com
-2, xmmila.com
-2, xmmtu.com
-2, xmmuye.com
-2, xmnjdwx.com
-2, xmocloud01.com
-2, xmoj.tech
-2, xmonecode.com
-2, xmos.tv
-2, xmov.ai
-2, xmpaoyou.com
-2, xmparking.net
-2, xmpbjl.com
 2, xmpcba.com
 2, xmqianzun.com
 2, xmqxy.com
@@ -1787,7 +1742,6 @@ routing = 0
 2, yangyongquan.com
 2, yangyq.net
 2, yangzhe1991.org
-2, yangzhi777.com
 2, yangzhihb.com
 2, yangzhiriji.com
 2, yangzhongchao.com
@@ -2641,6 +2595,7 @@ routing = 0
 2, ygfengshui.com
 2, yggk.net
 2, yghsh.com
+2, yghy123.com
 2, ygibao.com
 2, yginsight.com
 2, ygjctech.com
@@ -6762,7 +6717,6 @@ routing = 0
 2, zbyz.net
 2, zbz.com
 2, zbzb.org
-2, zbzdm.com
 2, zbzw.la
 2, zc-gs100.com
 2, zc-ha.com
@@ -7003,7 +6957,6 @@ routing = 0
 2, zenha.net
 2, zenhotspring.com
 2, zenith-group.net
-2, zenithmining.com
 2, zenithspace.net
 2, zenixauto.com
 2, zenkungforging.com
@@ -7474,6 +7427,7 @@ routing = 0
 2, zhangbj.com
 2, zhangchangfa.com
 2, zhangchi.art
+2, zhangdkl.asia
 2, zhangdongxuan.com
 2, zhangdu.com
 2, zhangdu520.com
@@ -7513,7 +7467,6 @@ routing = 0
 2, zhangrunnan.com
 2, zhangsenhao.com
 2, zhangshangtong.com
-2, zhangshengcw.com
 2, zhangshengrong.com
 2, zhangshi.org
 2, zhangshuchang.com
@@ -7959,7 +7912,6 @@ routing = 0
 2, zhidejian.com
 2, zhidemai.com
 2, zhidesoft.com
-2, zhidi66.com
 2, zhidianfan.com
 2, zhidianlife.com
 2, zhidieyun.com
@@ -8958,7 +8910,6 @@ routing = 0
 2, zigeer.com
 2, zigonggroup.com
 2, ziguhonglan.com
-2, zihai0351.com
 2, zihai24.com
 2, zihaixiaochengxu.com
 2, zihexin.com
@@ -10234,7 +10185,6 @@ routing = 0
 2, zqcloudgame.com
 2, zqcyzg.com
 2, zqedu.net
-2, zqfdc.net
 2, zqgame.com
 2, zqgjz1312.com
 2, zqgreen.com
