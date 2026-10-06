@@ -5,18 +5,18 @@
 # RULES: 12578
 # SOURCE-RULES: 12644
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax.list
-# UPSTREAM-UPDATED: 2026-10-04 04:30:52
+# UPSTREAM-UPDATED: 2026-10-06 07:38:24
 # SKIPPED: 66
 # SKIPPED-TYPES: IP-ASN=1, USER-AGENT=65
 
 name = ChinaMax
 routing = 0
+2, alipay
 2, alibaba
 2, taobao
 2, tmall
 2, cn
 2, ms
-2, alipay
 2, anquan
 2, baidu
 2, citic
@@ -71,10 +71,10 @@ routing = 0
 3, officecdn
 3, taobao
 3, bilibili
-3, qiyi
 3, hnagroup
 3, stripe
 3, weibo
+3, qiyi
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
