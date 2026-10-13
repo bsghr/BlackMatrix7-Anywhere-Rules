@@ -2,27 +2,28 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: ChinaMax 中国大陆规则
 # SOURCE-FORMAT: shadowrocket
-# RULES: 12619
-# SOURCE-RULES: 12685
+# RULES: 12625
+# SOURCE-RULES: 12691
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax.list
-# UPSTREAM-UPDATED: 2026-10-12 05:23:25
+# UPSTREAM-UPDATED: 2026-10-14 06:12:10
 # SKIPPED: 66
 # SKIPPED-TYPES: IP-ASN=1, USER-AGENT=65
 
 name = ChinaMax
 routing = 0
-2, alibaba
-2, taobao
-2, tmall
 2, cn
 2, ms
+2, alibaba
 2, alipay
 2, anquan
 2, baidu
 2, citic
+2, icbc
 2, shouji
 2, sina
 2, sohu
+2, taobao
+2, tmall
 2, unicom
 2, wang
 2, weibo
@@ -61,7 +62,6 @@ routing = 0
 2, xn--xhq521b
 2, xn--zfr164b
 2, yun
-2, icbc
 3, .tmall.com
 3, alicdn
 3, alipay
@@ -4102,7 +4102,9 @@ routing = 0
 0, 168.230.0.0/24
 0, 17.127.128.0/23
 0, 17.127.130.0/24
-0, 17.188.211.0/24
+0, 17.188.209.0/24
+0, 17.188.210.0/23
+0, 17.188.214.0/24
 0, 17.235.160.0/20
 0, 17.80.0.0/17
 0, 17.80.128.0/18
@@ -8168,6 +8170,7 @@ routing = 0
 0, 2402:7d00::/32
 0, 2402:7d80::/32
 0, 2402:7da0::/32
+0, 2402:7e20::/32
 0, 2402:8180::/32
 0, 2402:8300::/32
 0, 2402:8380::/32
@@ -9908,7 +9911,10 @@ routing = 0
 0, 240b:4004::/31
 0, 240b:4006:1000::/43
 0, 240b:4006:1020::/44
+0, 240b:4006:1104::/46
 0, 240b:4006:110c::/46
+0, 240b:4006:1110::/45
+0, 240b:4006:1118::/46
 0, 240b:4006::/48
 0, 240b:4007::/32
 0, 240b:4009::/32
@@ -11566,7 +11572,6 @@ routing = 0
 0, 38.102.234.0/23
 0, 38.103.64.26/32
 0, 38.105.24.0/21
-0, 38.12.255.0/24
 0, 38.134.58.0/23
 0, 38.181.0.0/19
 0, 38.181.32.0/23
@@ -12256,6 +12261,7 @@ routing = 0
 0, 45.251.192.0/19
 0, 45.251.224.0/22
 0, 45.251.240.0/22
+0, 45.251.248.0/23
 0, 45.251.52.0/22
 0, 45.251.8.0/22
 0, 45.251.84.0/22
