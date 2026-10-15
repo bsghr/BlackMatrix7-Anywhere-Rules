@@ -3,9 +3,9 @@
 # DESCRIPTION: Advertising 域名广告拦截规则
 # SOURCE-FORMAT: shadowrocket-domain
 # RULES: 100000
-# SOURCE-RULES: 288552
+# SOURCE-RULES: 289243
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Advertising/Advertising_Domain.list
-# UPSTREAM-UPDATED: 2026-10-14 06:08:18
+# UPSTREAM-UPDATED: 2026-10-16 04:46:13
 # SKIPPED: 0
 # PART: 1/3
 
@@ -81,6 +81,7 @@ routing = 2
 2, 01466b626e.b173280abe.com
 2, 015ea24446.com
 2, 0171pjx5q.com
+2, 0175a3229c.com
 2, 018520.com
 2, 0186141170.apps.iocnt.de
 2, 019103.com
@@ -187,6 +188,7 @@ routing = 2
 2, 0516bm.com
 2, 0517fd5e92.com
 2, 0518714bbd.com
+2, 051ss3usg.com
 2, 0530hz.cn
 2, 0531kt.com
 2, 0531mnk.net
@@ -1452,6 +1454,7 @@ routing = 2
 2, 1p1eqpotato.com
 2, 1p3293dngsv.dodofacile.fr
 2, 1p3opxwwet.ru
+2, 1p4z8vhhfh7cymq7klu26.rest
 2, 1p81bmc2ux25lvtl3nr.rest
 2, 1p8ln1dtr.de
 2, 1paujqtq9.com
@@ -2921,6 +2924,7 @@ routing = 2
 2, 3kbktygzr5.ru
 2, 3kfvgobkw.com
 2, 3khbi6czbrbqqwmi.cfd
+2, 3kin8remefmhwq.cfd
 2, 3ktn78iy5veugy.cfd
 2, 3l0zszdzjhpw.www.comicleaks.com
 2, 3lbqpzrlmz.com
@@ -2998,6 +3002,7 @@ routing = 2
 2, 3tght76h.com
 2, 3tmwf3qjfm4gkvqho8.rest
 2, 3ts.icu
+2, 3tv4botiq.com
 2, 3u3ymbqj.xyz
 2, 3under.ru
 2, 3uo.fun
@@ -3865,6 +3870,7 @@ routing = 2
 2, 56gwxudcy1.com
 2, 56l9o1j3lk.com
 2, 56n78kho.te5vvi8fylu8gzj2m48to8.cyou
+2, 56pxywt379.com
 2, 56rt2692.de
 2, 56txs4.com
 2, 56voxor.net
@@ -4209,6 +4215,7 @@ routing = 2
 2, 5uzevbgn3ufcgg14v8ze89no7r9.cfd
 2, 5uzpwjwkb.com
 2, 5v19ql3xi1.com
+2, 5v5uzkj27wuervvq.rest
 2, 5v61.hb72kvmlnbjjxu3zogjbw52.cyou
 2, 5vbs96dea.com
 2, 5visions.com
@@ -4385,7 +4392,6 @@ routing = 2
 2, 641198810fae7.com
 2, 64134c91b6.com
 2, 64236b1b40.com
-2, 6424ae2542.d6803eed52.com
 2, 642596c296.com
 2, 643226.com
 2, 64430aeb03.com
@@ -5564,6 +5570,7 @@ routing = 2
 2, 84lm.net
 2, 84mua.com
 2, 84r6qbv1hbjbkcxy.cfd
+2, 84ugo1c53pqhne.cfd
 2, 84v3xysu80.com
 2, 84zm8.xyz
 2, 85058s.com
@@ -6215,6 +6222,7 @@ routing = 2
 2, 95nnw4ut4jbf119f83.rest
 2, 95p5qep4aq.com
 2, 95ppq87g.de
+2, 95tfxmtiijq5hh97ubrkbo4t7.cfd
 2, 95thalj5.ru
 2, 95urbehxy2dh.top
 2, 960021c71c.com
@@ -7123,6 +7131,7 @@ routing = 2
 2, a.weareknitters.se
 2, a.websponsors.com
 2, a.wheelabratorgroup.com
+2, a.wing.st
 2, a.wishabi.com
 2, a.wlfnb.com
 2, a.wzu.com
@@ -7810,7 +7819,6 @@ routing = 2
 2, a8858f6631.com
 2, a899228ebf.com
 2, a89da11668.com
-2, a8ae79b04a.0175a3229c.com
 2, a8aebc73ca.com
 2, a8affiliate.liftup-turban.net
 2, a8age.com
@@ -8342,6 +8350,7 @@ routing = 2
 2, abalone46.com
 2, abalsljfwasnq.online
 2, abamamusket.cyou
+2, abamatachiol.com
 2, abamatoyer.com
 2, abandonedaction.com
 2, abandonrecommendationwars.com
@@ -8610,6 +8619,7 @@ routing = 2
 2, abema-adx.ameba.jp
 2, abemms.atp-autoteile.de
 2, abendaimed.com
+2, abenergy.org
 2, abergkxsuhitc.website
 2, abesseslogger.rest
 2, abethow.com
@@ -8627,6 +8637,7 @@ routing = 2
 2, abgku.onewillow.com
 2, abgligarchan.com
 2, abgxxc.com
+2, abgztrwbtcduz.website
 2, abh.jp
 2, abhmancnvqweb.site
 2, abhmssqcicgr.net
@@ -8690,6 +8701,7 @@ routing = 2
 2, abkajbvozmbwa.top
 2, abkajbvqkkwaj.top
 2, abkajbvqkkwkr.top
+2, abkargentesnate.qpon
 2, abkbmamulx.in
 2, abkdae.namshi.com
 2, abkifkamcbfls.space
@@ -8931,6 +8943,7 @@ routing = 2
 2, aboluowang.com
 2, abombu.com
 2, abomisi.com
+2, abomwngcpvlot.site
 2, abonnementpermissiveenliven.com
 2, abonnementtripleexplore.com
 2, abopeol.com
@@ -8998,6 +9011,7 @@ routing = 2
 2, abridgefmfiducia.qpon
 2, abridgeoverwhelmfireball.com
 2, abridgesynchronizepleat.com
+2, abridgetomfool.cyou
 2, abrittel.fr
 2, abrmcbgt.traffictoday.nl
 2, abrnfctkn.xyz
@@ -9106,6 +9120,7 @@ routing = 2
 2, abtao.wang
 2, abtasty.com
 2, abtaurosa.club
+2, abtbilifywarray.cfd
 2, abtest.mistat.xiaomi.com
 2, abtest.swrve.com
 2, abtmetric.espn.go.com
@@ -9504,6 +9519,7 @@ routing = 2
 2, acesso.imobiliariarspicarras.com.br
 2, acessoires-electromenager.fr
 2, acetarycoraise.help
+2, acetousaminish.cyou
 2, acetrk.com
 2, acevupgymfcdc.website
 2, acexedge.com
@@ -9556,6 +9572,7 @@ routing = 2
 2, achromafaon.click
 2, achuphaube.com
 2, achurt.com
+2, achvlsrxdatxn.online
 2, achyaplenty.com
 2, achycompassionate.com
 2, achyrepeatitchy.com
@@ -9967,6 +9984,7 @@ routing = 2
 2, actualtrade.eu
 2, actyle.com
 2, actyot.com
+2, actzyzdxpazss.online
 2, acubbeamjtky.xyz
 2, acuerdobedight.life
 2, acufjnlheepma.website
@@ -10025,6 +10043,7 @@ routing = 2
 2, acwgf.com
 2, acwnloafdyqsw.site
 2, acwpzzpptupkf.online
+2, acwyersovfsaj.site
 2, acxajt.jimmykey.com
 2, acxcfztcvheoa.space
 2, acxdyn.com
@@ -13097,6 +13116,7 @@ routing = 2
 2, ads.mp3searchy.com
 2, ads.msdigital.vn
 2, ads.msn.com
+2, ads.mssb.cloud
 2, ads.mtgroup.kr
 2, ads.mtv.uol.com.br
 2, ads.multimania.lycos.fr
@@ -15657,6 +15677,7 @@ routing = 2
 2, afy11.net
 2, afyads.com
 2, afyonturkreklam.com
+2, afypwpyufiezk.website
 2, afyslcffasnvl.online
 2, afywhecpi.com
 2, afzaspjhyo.in
@@ -15731,6 +15752,7 @@ routing = 2
 2, age810.net
 2, ageandinone.org
 2, ageandinone.xyz
+2, aged-throat.pro
 2, agedvalue.pro
 2, agedycsmjwbtt.website
 2, ageevjvw.net
@@ -16155,6 +16177,7 @@ routing = 2
 2, ahobsewcjigev.space
 2, ahoff.ru
 2, ahoichdlkqyko.online
+2, aholdpuranasjobsite.qpon
 2, ahomsoalsoah.net
 2, ahoopiphoopsoa.net
 2, ahoravideo-blog.com
@@ -17397,6 +17420,7 @@ routing = 2
 2, alhiop.thehandsome.com
 2, alhistoriousg.info
 2, alhkanbodrbve.online
+2, alhnoakqwahiw.online
 2, alhpdp.petsupplies4less.com
 2, alhypnoom.com
 2, ali-ad.a.yximgs.com
@@ -18098,6 +18122,7 @@ routing = 2
 2, amarceusan.com
 2, amarfa.ir
 2, amarh.coniferkingdom.com
+2, amarineobeys.cyou
 2, amaroid.net
 2, amarveloozoid.cfd
 2, amassesvoteen.website
@@ -18290,6 +18315,7 @@ routing = 2
 2, amidststuller.com
 2, amidsttruly.com
 2, amiehend.cyou
+2, amiesconcion.cyou
 2, amige.seasidefuneral.com
 2, amigo-biz.ru
 2, amikay.com
@@ -18447,6 +18473,7 @@ routing = 2
 2, ams2.rumourrubicon.com
 2, amsacpcugjc.in
 2, amsctdspsyeqf.website
+2, amselvex.com
 2, amsgjybwclvoq.space
 2, amshirethfne.xyz
 2, amshroomishan.com
@@ -19199,6 +19226,7 @@ routing = 2
 2, annuaire-autosurf.com
 2, annual-spend.com
 2, annualrallybran.com
+2, annualunion.com
 2, annuarybeeper.click
 2, annuentleers.com
 2, annulargulleys.com
@@ -19247,6 +19275,7 @@ routing = 2
 2, anothingfruit.org
 2, anotoenprmmen.space
 2, anotuscottony.com
+2, anourjouster.cfd
 2, anouslab.cmail20.com
 2, anoxiabrains.shop
 2, anoxiassoso.qpon
@@ -19337,6 +19366,7 @@ routing = 2
 2, antbirdpotters.rest
 2, antblz.mediaworld.it
 2, antcixn.com
+2, antclxnxcwpln.space
 2, antcxk.com
 2, anteater.audioadventuregame.com
 2, anteater.benborgers.com
@@ -19692,6 +19722,7 @@ routing = 2
 2, aovk.cn
 2, aowaat.elfadistrelec.fi
 2, aowdk.cyou
+2, aowiifgsuhvxf.site
 2, aowjaqfbeethq.online
 2, aowykupwwnqrg.xyz
 2, aoxvlbejkrvvh.online
@@ -20845,7 +20876,6 @@ routing = 2
 2, api.srceprirode.rs
 2, api.stahlhart.com.br
 2, api.startbeglobal.com
-2, api.statsig.com
 2, api.statsigcdn.com
 2, api.staydepot.com.br
 2, api.stelariss.com.br
@@ -23135,6 +23165,7 @@ routing = 2
 2, armsart.com
 2, armsgross.com
 2, armsnerveattestation.com
+2, armvupzc.in
 2, army.delivery
 2, arnautjamdani.com
 2, arnchealpa.com
@@ -23352,6 +23383,7 @@ routing = 2
 2, arwhismura.com
 2, arx8x.net
 2, arxbentlet.cfd
+2, arxbuoyage.cyou
 2, arxoplagziavr.site
 2, arxrozanvbjde.website
 2, arxxbyffdtqxlqx.net
@@ -23590,6 +23622,7 @@ routing = 2
 2, asgmtalconde.com
 2, asgorebysschan.com
 2, asgukrpapiiyp.online
+2, asgwgdsjaamrl.online
 2, ashadofe.com
 2, ashaidart.site
 2, ashamed-diamond.com
@@ -24268,6 +24301,7 @@ routing = 2
 2, atarrean.com
 2, atarshaboor.com
 2, atas.io
+2, ataslued.qpon
 2, atatus.com
 2, atavas.ru
 2, atavifaggery.help
@@ -24446,6 +24480,7 @@ routing = 2
 2, atlassolutions.com
 2, atlastwo.com
 2, atlauncher.fr
+2, atldmiwjarwpe.online
 2, atleethnize.shop
 2, atlggfy.cn
 2, atlgixgeuppua.website
@@ -24637,6 +24672,7 @@ routing = 2
 2, attentionkick.com
 2, attentionsbreastfeeding.com
 2, attentive-path.com
+2, attentivecategory.com
 2, attentiverutfamous.com
 2, atterrounesh.info
 2, atterrtypeset.qpon
@@ -25423,6 +25459,7 @@ routing = 2
 2, avowalssnivel.com
 2, avowappear.com
 2, avoweddehorns.cfd
+2, avowingoxaliteglancer.qpon
 2, avowsvarus.com
 2, avp.labanquepostale.fr
 2, avpa.dzone.com
@@ -25675,6 +25712,7 @@ routing = 2
 2, awoudsoo.xyz
 2, awowwo.forever21.com
 2, awozdcvzjgbnh.online
+2, awp8r0f7q.com
 2, awpcrpu.com
 2, awpmzlkylwrnb.space
 2, awprt.com
@@ -25969,6 +26007,7 @@ routing = 2
 2, axqoiulwchkth.space
 2, axquoajbbjwew.net
 2, axrfetwwx.xyz
+2, axroiubduuqtw.website
 2, axshhgmltiycy.site
 2, axskcjxhwjmth.online
 2, axskltzhgkzrm.online
@@ -26187,6 +26226,7 @@ routing = 2
 2, azgftoymwpszx.online
 2, azghddpyjgdss.website
 2, azgzc.alexjonesbanned.com
+2, azhcqodrtqmri.space
 2, azhhrdxzehqez.site
 2, azhmv.francesvalentine.com
 2, azhobfzcwtxvj.website
@@ -26286,6 +26326,7 @@ routing = 2
 2, azvjudwr.info
 2, azvozac.ru
 2, azvvvoxbbror.com
+2, azwbheoqk.in
 2, azwcgilcgsveu.online
 2, azwkjjkmbqavv.top
 2, azwucq.locservice.fr
@@ -26571,6 +26612,7 @@ routing = 2
 2, b42fb8d81e.com
 2, b42rracj.com
 2, b431ornir6wy9cw2r.rest
+2, b43t3ckolyh9c221ebxpot56.cfd
 2, b44794baad.com
 2, b460e308b59.com
 2, b4641y3dw.com
@@ -26626,6 +26668,7 @@ routing = 2
 2, b6c9c4cf28.com
 2, b6ed49d650.b4b00ff6ab.com
 2, b6f2a46f29.com
+2, b6xrw5xm29n88k5q38e9.rest
 2, b6y1umem7u4794h1.cfd
 2, b6zvtfvngrruxjkwcqwvzmfxo1t.cfd
 2, b70a8e5392.com
@@ -27257,7 +27300,6 @@ routing = 2
 2, bancoscavin.qpon
 2, bandageretaliateemail.com
 2, bandages84.com
-2, bandarxl.bio
 2, bandborder.com
 2, bandboxprints.com
 2, banddisordergraceless.com
@@ -27638,6 +27680,7 @@ routing = 2
 2, barddfvgkhctch11.ru
 2, bardicjazzed.com
 2, bardinghuggery.com
+2, bardishdaggled.cyou
 2, bardsxctl.help
 2, bare-character.com
 2, bare-type.pro
@@ -28107,6 +28150,7 @@ routing = 2
 2, bbk.pnc.com
 2, bbkibzipwyqng.site
 2, bbkrsm.crucerosnet.com
+2, bbkwbwnvixucs.online
 2, bblaa.com
 2, bbm-ad-stack-production.up.railway.app
 2, bbm.blubela.com
@@ -28214,6 +28258,7 @@ routing = 2
 2, bccas.anniesattic.com
 2, bccda4ab57.com
 2, bcciwdedwyfgp.space
+2, bccmjkiazhlha.space
 2, bccqnruipevxy.website
 2, bccyyc.com
 2, bcczmm.com
@@ -28278,6 +28323,8 @@ routing = 2
 2, bcovazp.icu
 2, bcpbtqpumbarw.online
 2, bcpce.blenderseyewear.com
+2, bcpghyvhtwpcj.website
+2, bcpkzibxkfogh.space
 2, bcpnsajrgrlop.online
 2, bcprm.com
 2, bcpxll.icu
@@ -28409,6 +28456,7 @@ routing = 2
 2, bdad.123pan.cn
 2, bdad.gaotie.net
 2, bdad.hao224.com
+2, bdagxixncozzw.site
 2, bdamcsv.top
 2, bdaor.com
 2, bdapi-ads.realmemobile.com
@@ -28566,8 +28614,10 @@ routing = 2
 2, bdwblog.eastmoney.com
 2, bdwbxmzmpu.ru
 2, bdwmhz.120askimages.com
+2, bdwszttlibevp.space
 2, bdx.playnext.cn
 2, bdxbtv.icu
+2, bdxgzlhbwvbzt.site
 2, bdxhujrned.buzz
 2, bdxjnlpkkdfok.site
 2, bdxoxo.libraccio.it
@@ -28833,6 +28883,7 @@ routing = 2
 2, becramblunger.com
 2, becramcreeky.com
 2, becreepkelchin.cfd
+2, becrossblendes.cyou
 2, becrushtalcoseatake.cfd
 2, becrustleom.com
 2, bectalonic.com
@@ -28923,6 +28974,7 @@ routing = 2
 2, beenoper.com
 2, beenover.com
 2, beentogryph.qpon
+2, beentoimbredhaikwan.cyou
 2, beeparentdo.com
 2, beeperconsiderably.com
 2, beepergaily.com
@@ -29774,6 +29826,7 @@ routing = 2
 2, beveldankish.com
 2, bevelscouriewarnt.cfd
 2, beverleyprowlpreparing.com
+2, beverragbolt.cyou
 2, beversesurplus.cyou
 2, beveyckzdzheo.site
 2, bevfpfekwskzg.world
@@ -30679,6 +30732,7 @@ routing = 2
 2, biijyuaeuzssw.online
 2, biinnjyohmrk.com
 2, biirmjnw.icu
+2, bijisdikvmufo.online
 2, bijitsoa.com
 2, bijkep.hotelesestelar.com
 2, bijmatujkzocc.space
@@ -30949,7 +31003,6 @@ routing = 2
 2, bismuthclarre.qpon
 2, bisnagadextral.cyou
 2, bisnagaunction.top
-2, bisnis4d.bio
 2, bison.ainslieart.com
 2, bison.joshhanley.com.au
 2, bison.stuffmatic.com
@@ -30964,6 +31017,7 @@ routing = 2
 2, bisto.shinesty.com
 2, bistoury55.com
 2, bistr4.ru
+2, bistredchavercaption.qpon
 2, bistroduy.ru
 2, bistrosorating.qpon
 2, bit-ad.com
@@ -31202,6 +31256,7 @@ routing = 2
 2, bjm.cipelipampam.com
 2, bjmantis.net
 2, bjmcmj.cn
+2, bjmuqfyvinlyc.website
 2, bjnjh.paintplot.com.au
 2, bjnlpuyppgfvp.space
 2, bjnor.petals-gummies.com
@@ -31215,6 +31270,7 @@ routing = 2
 2, bjpnhroqdkexx.website
 2, bjpsuk.fray-id.com
 2, bjpwv.com
+2, bjqafjsdtivkb.site
 2, bjqdp.scrapbook.com
 2, bjqftcty.com
 2, bjqnpe.i-office1.net
@@ -31257,6 +31313,7 @@ routing = 2
 2, bjwwfx001.org.cn
 2, bjxiangcao.com
 2, bjxiaohua.com
+2, bjxoyrb4rouvtuiqk.cfd
 2, bjxqoqvztoreb.site
 2, bjxuql.vorwerk.fr
 2, bjxusfnfstjae.online
@@ -31289,12 +31346,14 @@ routing = 2
 2, bkbctgjvawkyy.online
 2, bkbhaestxgkor.online
 2, bkbliifnzrjmn.space
+2, bkbmungtxueiz.online
 2, bkbndrunglued.cyou
 2, bkbntniwbhlntm.com
 2, bkbrmmlyyvekz.top
 2, bkbrmmlyyvlyk.top
 2, bkcubzzabtoda.site
 2, bkdg.net
+2, bkdgubziyvccl.site
 2, bkdlmujfobbk.com
 2, bkelikozpal.in
 2, bkembwdgujzp.com
@@ -31555,6 +31614,7 @@ routing = 2
 2, bleandworld.xyz
 2, bleandworldw.org
 2, blearyganevreveler.cfd
+2, bleatedgeek.com
 2, bleaterpolys.com
 2, bleatflirtengland.com
 2, bleatstringinch.com
@@ -31806,6 +31866,7 @@ routing = 2
 2, blpigisjqbykc.site
 2, blpjxkhubqsmsy.xyz
 2, blqsrexczsqht.site
+2, blqxmqf4jj6f6ggl7tlzfwvuwrby.rest
 2, blrag.georgiemane.com
 2, blrhel.veronicabeard.com
 2, blrwjcbetgiqec.com
@@ -32077,6 +32138,7 @@ routing = 2
 2, bmfads.com
 2, bmfczkmrtnfzr.site
 2, bmfipimziwucr.online
+2, bmfoyxjuwzouz.online
 2, bmfwwz.top
 2, bmg8t99nhf.com
 2, bmgan.com
@@ -32432,6 +32494,7 @@ routing = 2
 2, bobpinching.com
 2, bobrilla.com
 2, bobsleddomesticglandular.com
+2, bobunrahhwcfa.online
 2, bobuptoopsukus.net
 2, bobzk.sokolovelaw.com
 2, bocaa.l-r-g.com
@@ -32552,6 +32615,7 @@ routing = 2
 2, boilingumbrella.com
 2, boilslashtasted.com
 2, boilybeefer.cfd
+2, boingbroggle.qpon
 2, boinkcash.com
 2, boipscvjhuyyi.space
 2, boiqzsgnywkuv.today
@@ -32698,6 +32762,7 @@ routing = 2
 2, bongacams11.com
 2, bongacams7.com
 2, bonganotus.cfd
+2, bongaropianyl.qpon
 2, bongaucm.xyz
 2, bongauns.xyz
 2, bongdadem.net
@@ -32808,6 +32873,7 @@ routing = 2
 2, bookstoreunfortunate.com
 2, booktakeaway.com
 2, booktrack.stampkini.com
+2, booleanglime.qpon
 2, boolff.com
 2, booli-logger.prod.booli.se
 2, boolianamoyfoughty.cfd
@@ -33090,6 +33156,7 @@ routing = 2
 2, boulevardrunningprofane.com
 2, boulimyaurigo.com
 2, boultelelatcha.com
+2, boulteltugmanrater.qpon
 2, boulterdolours.com
 2, bounce-ads.de
 2, bounceads.net
@@ -33182,6 +33249,7 @@ routing = 2
 2, bowlersoceloid.com
 2, bowlesbloated.cyou
 2, bowlgirl.com
+2, bowlingpish.com
 2, bowlingprosperhalfbrother.com
 2, bowlinvit.site
 2, bowlsolicitor.com
@@ -33225,6 +33293,7 @@ routing = 2
 2, boxofficehelping.com
 2, boxofficeliterally.com
 2, boxofwhisper.com
+2, boxppscnodpfq.website
 2, boxpr.aiservice.vn
 2, boxrest.website
 2, boxshows.com
@@ -33311,6 +33380,7 @@ routing = 2
 2, bphekomorrvvx.site
 2, bphgwntdzzyxs.space
 2, bphtlhrntspkk.site
+2, bphzzzguoqrnxu.com
 2, bpifosgceukau.space
 2, bpigydbzlrszz.online
 2, bpikbe.brooksfield.com
@@ -33722,6 +33792,7 @@ routing = 2
 2, brashgrandchild.com
 2, brasilmistime.shop
 2, brassekhalat.cfd
+2, brassespernine.com
 2, brassetstanedcritics.cyou
 2, brassieringe.com
 2, brassstacker.com
@@ -33759,6 +33830,7 @@ routing = 2
 2, brawledbemat.cfd
 2, brawnergrice.shop
 2, brawnsprince.cyou
+2, braxiesoutredegenys.cfd
 2, braychirt.cfd
 2, brayinglegions.click
 2, braze.com
@@ -34081,6 +34153,7 @@ routing = 2
 2, brjhzmubffzja.site
 2, brjjkd.calzedonia.com
 2, brjmzj.niceioi.com.tw
+2, brkbaawvypikso.com
 2, brkoev.minfin.com.ua
 2, brldassustitucion.eccocar.com
 2, brlesrochesmarbella.eccocar.com
@@ -34301,6 +34374,7 @@ routing = 2
 2, brtom.ru
 2, brtrack.rummypassion.com
 2, brtsumthree.com
+2, brtuigmdbvbjj.site
 2, brtv.xyz
 2, brtwlhfmomcng.site
 2, bruark.com
@@ -34411,6 +34485,7 @@ routing = 2
 2, bsbmex.flaschenpost.ch
 2, bsbrcdna.com
 2, bsbshhxpotmyt.site
+2, bsbxodmrptqjs.online
 2, bschuyenkhoamat.biz
 2, bsd.brandschutzdozenten.de
 2, bsdev.cn
@@ -34703,6 +34778,7 @@ routing = 2
 2, btyklhjjasgfm.club
 2, btyou.com
 2, btzpcronctvtf.website
+2, btzvjvwhrovhc.site
 2, bu01.zybang.com
 2, bu02.zybang.com
 2, bu1.duba.com
@@ -34788,6 +34864,7 @@ routing = 2
 2, budesleided.shop
 2, budfduwa.xyz
 2, budgeencodeunions.com
+2, budgerdowning.qpon
 2, budgeshaspsclaims.cfd
 2, budgetea.top
 2, budgetezy.org
@@ -35279,6 +35356,7 @@ routing = 2
 2, butanoldatives.com
 2, butashasp.site
 2, butcalve.com
+2, butchestusker.com
 2, butenylevans.world
 2, butflatter.com
 2, butincavil.qpon
@@ -35488,6 +35566,7 @@ routing = 2
 2, bvfqhnyofanbfk.com
 2, bvgaf.danielalexanderunderwear.com
 2, bvhd1uhl5z.com
+2, bvhvigbjkwtgw.website
 2, bvhvnt.xyz
 2, bvhxiysrndwbg.site
 2, bvietcombank.com
@@ -35554,6 +35633,7 @@ routing = 2
 2, bw95vpjda.ru
 2, bwads24.com
 2, bwandlv.top
+2, bwaozzmeerulo.site
 2, bwapi.bikerumor.com
 2, bwau1s2fm.com
 2, bwb101.goo.ne.jp
@@ -35564,6 +35644,7 @@ routing = 2
 2, bwbw2kje848hsmla.ru
 2, bwbwye.klarstein.hu
 2, bwcdn.xyz
+2, bwcfguznrgeuh.online
 2, bwcnkqheouhbk.site
 2, bwcnmtv.top
 2, bwcrsvafzujog.site
@@ -35911,6 +35992,7 @@ routing = 2
 2, bywxp.aritzia.com
 2, byxcbixzvjclxz.com
 2, byxcbk.ipekevi.com
+2, byxugdfmltqgp.space
 2, byyanmaor.com
 2, byzgoso.ru
 2, byzkrjamkqbal.top
@@ -35933,6 +36015,7 @@ routing = 2
 2, bzelzfnj.xyz
 2, bzfrmvyspduxo.store
 2, bzfzlj.blackrouge.co.kr
+2, bzgitoyikbwll.space
 2, bzgmcqqfxd.com
 2, bzimzdeexerat.space
 2, bziycxyzbtqmf.site
@@ -36307,6 +36390,7 @@ routing = 2
 2, c2ec494150.8681b70da0.com
 2, c2hi9cerejqhn315nkz.cfd
 2, c2i.startappnetwork.com
+2, c2obmjin2o584fvq7mxfopm9w.rest
 2, c2s.startappnetwork.com
 2, c2vodqlmy.com
 2, c2y82fkyv.com
@@ -36421,6 +36505,7 @@ routing = 2
 2, c74df06d52c9da686f17.com
 2, c74l4kr3f2fjv8j.rest
 2, c769b6eba3.com
+2, c76us2sjda.com
 2, c77777777.com
 2, c783.fastcompany.com
 2, c78zf.xyz
@@ -36537,6 +36622,7 @@ routing = 2
 2, caaqot.com
 2, caardinal.com
 2, cabalmaori.qpon
+2, cabanasstopingwilt.qpon
 2, cabbageenframe.qpon
 2, cabbagereporterpayroll.com
 2, cabbagesemestergeoffrey.com
@@ -36796,6 +36882,7 @@ routing = 2
 2, calamitynineteenthglide.com
 2, calarm.info
 2, calcados.reginarios.com.br
+2, calcatetroller.cfd
 2, calcatezonta.qpon
 2, calchasbejanttoyers.qpon
 2, calcheossal.cyou
@@ -36879,6 +36966,7 @@ routing = 2
 2, calmbytedishwater.com
 2, calmcactus.com
 2, calmcough.com
+2, calmertryt.com
 2, calmestbowery.qpon
 2, calmlygelatinecandle.com
 2, calmlyilldollars.com
@@ -37211,6 +37299,7 @@ routing = 2
 2, canopylabs.com
 2, canramble.com
 2, cansdecyne.com
+2, canseealltheugline.org
 2, canseldomsulphur.com
 2, canser1.top
 2, canser5.top
@@ -38111,6 +38200,7 @@ routing = 2
 2, carnegienet.net
 2, carneoam.com
 2, carneyrevivedshellum.cyou
+2, carnicunsworn.qpon
 2, carnoseearlet.click
 2, carnschmuck.cyou
 2, carnywhussle.qpon
@@ -38124,6 +38214,7 @@ routing = 2
 2, carp.amespacios.com
 2, carp.spotonevent.no
 2, carpcw.com
+2, carpeaboutupborne.cfd
 2, carpentercolor.com
 2, carpentercomparison.com
 2, carpenterexplorerdemolition.com
@@ -38575,6 +38666,7 @@ routing = 2
 2, cavecurtain.com
 2, caveestate.com
 2, caveletdoghoodanogra.cfd
+2, caveletganoine.qpon
 2, cavergalere.com
 2, cavernous-mess.com
 2, cavernous-standard.pro
@@ -38845,6 +38937,7 @@ routing = 2
 2, cchfjz.com
 2, cchkvtejdnqov.space
 2, cchlhb.budgetsport.fi
+2, cchnpbuhhbiux.space
 2, cchome-stage.adobe.io
 2, cchpvhkoqilnr.online
 2, cchxgahvhzdoh.site
@@ -38939,6 +39032,7 @@ routing = 2
 2, ccwsringers.cyou
 2, ccwtz.mindgrasp.ai
 2, ccwxma.xyz
+2, ccxgplvsiibos.site
 2, ccyainxrkvdhl.online
 2, ccyasvfuss.in
 2, cczepkzqknflg.website
@@ -39171,6 +39265,7 @@ routing = 2
 2, cdn.datateam.co.uk
 2, cdn.ddmanager.ru
 2, cdn.defractal.com
+2, cdn.dezacibesodexi.com
 2, cdn.dfsdk.com
 2, cdn.djtig.com
 2, cdn.dminorschool.com
@@ -39569,6 +39664,7 @@ routing = 2
 2, cdpilzgnucedh.online
 2, cdpommmy.com
 2, cdptracker.hocmai.com.vn
+2, cdptucdzmmnhq.space
 2, cdqjmc.com
 2, cdrhialzwntyu.store
 2, cdrive.compellent.com
@@ -39595,6 +39691,7 @@ routing = 2
 2, cduygiph.com
 2, cdvmgqs-ggh.tech
 2, cdvnogrvt.com
+2, cdvscuvnxnlqx.website
 2, cdwbjlmpyqtv.com
 2, cdwehdnnprdntse.com
 2, cdwlxi.cadremploi.fr
@@ -39805,6 +39902,7 @@ routing = 2
 2, celosiaetwee.shop
 2, celotexchalaze.website
 2, celqpnfalyrqf.space
+2, celtiswetters.com
 2, celtra.com
 2, celu89z6jl783itxnxwzmlgz77x9mt.cfd
 2, celusgmmpzlur.space
@@ -39941,6 +40039,7 @@ routing = 2
 2, cerezgo.com
 2, cerfbup.xyz
 2, cerga.coralestaterentals.com
+2, ceriashabub.com
 2, cerillaletches.cyou
 2, cerilloinverts.com
 2, cerillosuncup.guru
@@ -40132,6 +40231,7 @@ routing = 2
 2, cfqzcuasbvwva.website
 2, cfredh.cn
 2, cfrkiqyrtai.xyz
+2, cfrmnwscdcsfz.online
 2, cfrnyp.kars4kids.org
 2, cfrsoft.com
 2, cfs.uzone.id
@@ -40371,6 +40471,7 @@ routing = 2
 2, challengecircuit.com
 2, challengeh.carte-gr.total.fr
 2, challengingdevaluationperiods.com
+2, chalotampuls.cyou
 2, cham-soc-the-truc-tuyen.com.vn
 2, chamarwhisted.digital
 2, chamberscrisiswalnut.com
@@ -40545,6 +40646,7 @@ routing = 2
 2, chart.dk
 2, chartaca.com
 2, chartaca.com.s3.amazonaws.com
+2, chartaejaper.cyou
 2, chartbeat.com
 2, chartbeat.net
 2, chartboost.com
@@ -40576,6 +40678,7 @@ routing = 2
 2, chatinator.com
 2, chatintr.com
 2, chatntr.com
+2, chatonsdebat.com
 2, chatotapiocoupled.cyou
 2, chatroll.fr
 2, chats2023.online
@@ -41477,6 +41580,7 @@ routing = 2
 2, cibhmyowgsmpa.store
 2, cibj3rif9mw4gubu6.rest
 2, cibleclick.com
+2, ciboneysoiledclonk.cyou
 2, cibsi.domondo.pl
 2, cic-epargnrsalariale.fr
 2, cicada.getgust.com
@@ -41617,6 +41721,7 @@ routing = 2
 2, cipqzgarguxht.online
 2, cipyhdjcfnfqm.website
 2, ciqfawsa.in
+2, ciqienbotnrri.site
 2, ciqne.myobvi.com
 2, ciqtracking.com
 2, ciqvaiywqpkpk.club
@@ -41669,6 +41774,7 @@ routing = 2
 2, cistaexpired.cyou
 2, cisticplanes.qpon
 2, cistorigestae.shop
+2, cistronawn.qpon
 2, cistronbrasen.shop
 2, ciststoquets.space
 2, cisyxmahhotxf.site
@@ -41756,6 +41862,7 @@ routing = 2
 2, cizare.xyz
 2, cizion.com
 2, cizml.wyndhamhotels.com
+2, cizpgxebpwlgn.website
 2, cizzvi.beldona.com
 2, cj-cy.com
 2, cj.com
@@ -41781,6 +41888,7 @@ routing = 2
 2, cjbyfsmr.life
 2, cjcixialukuav.space
 2, cjcku.eskiin.com
+2, cjckvqrfbiqid.space
 2, cjcqls.onbuy.com
 2, cjcvd6.com
 2, cjdisuisubvkq.website
@@ -41813,6 +41921,7 @@ routing = 2
 2, cjiub.styleedit.com
 2, cjjhocfofemex.website
 2, cjkbyfogdqiwc.site
+2, cjknvvkqxknay.space
 2, cjkvtdxsdfpqc.website
 2, cjlekm.correiodopovo.com.br
 2, cjlenw.icasei.com.br
@@ -41945,6 +42054,7 @@ routing = 2
 2, ckpb3c3wq449m7wo7fe553ief.cfd
 2, ckpchhhnhbsle.site
 2, ckpip.lifeextension.com
+2, ckplyddwkkvek.online
 2, ckprywhyjlilp.website
 2, ckpxtt.justfly.com
 2, ckpyqgorlfdko.site
@@ -44012,6 +44122,7 @@ routing = 2
 2, cockatielcafe.com
 2, cockersbehint.com
 2, cockerwigher.click
+2, cockeyenomes.com
 2, cockiesbonnne.com
 2, cockieswedel.cyou
 2, cocklacock.com
@@ -44980,6 +45091,7 @@ routing = 2
 2, commissionkings.ag
 2, commissionlounge.com
 2, commissionmonster.com
+2, commitlogs.com
 2, commitmentelizabeth.com
 2, commitmentmeet.com
 2, committeereconcilelibrarian.com
@@ -45506,6 +45618,7 @@ routing = 2
 2, conjunctionblackmailspill.com
 2, conjunctionrepresentativepowerless.com
 2, conjuremachinery.com
+2, conjuror45.com
 2, connatix.com
 2, connct-9.com
 2, connead.net
@@ -46839,6 +46952,7 @@ routing = 2
 2, cornflowercigar.com
 2, cornflowershallow.com
 2, cornicgills.cyou
+2, corniercuffed.qpon
 2, cornplus.cn
 2, cornualsinamin.cyou
 2, cornucopia.stape.rocks
@@ -47581,6 +47695,7 @@ routing = 2
 2, cpddwyuyd.com
 2, cpdqvdvmwlnyq.site
 2, cpdsrv.de
+2, cpduiygqyhfia.website
 2, cpdvdlzrujrsl.online
 2, cped7.xyz
 2, cpehuwccepxvx.online
@@ -47594,6 +47709,7 @@ routing = 2
 2, cpfwffke.com
 2, cpfyghgfkdgpu.website
 2, cpg-cdn.com
+2, cpgcgxrpfoypv.site
 2, cpghsl.renoveru.jp
 2, cpghw.fresh.com
 2, cpgjmp.wideshop.pl
@@ -48795,6 +48911,7 @@ routing = 2
 2, csdinjagkvyvn.space
 2, csdoranmotswo.site
 2, csdri.gardner-white.com
+2, csdrifzovbhjq.site
 2, csdrnf.a24.kr
 2, cse.rakanto.com
 2, cse3.chausport.com
@@ -49091,6 +49208,7 @@ routing = 2
 2, ctirhpp.com
 2, ctivo.com
 2, ctjfdn.sandals.com
+2, ctk8ifokyw.com
 2, ctl.mobitrack.co.kr
 2, ctlayn.talbots.com
 2, ctllup.deery.com.tr
@@ -49325,6 +49443,7 @@ routing = 2
 2, cucuyliest.qpon
 2, cucuyoalkoxy.com
 2, cudabelcheslyse.cfd
+2, cudaliaisontivy.cfd
 2, cudaojia.com
 2, cuddleangkhak.com
 2, cuddlecoveragehiss.com
@@ -49425,6 +49544,7 @@ routing = 2
 2, cugiphepty.com
 2, cugnerteens.net
 2, cugoxnkpmryfe.space
+2, cuhpxkxfxfygd.online
 2, cuhtgextakvil.online
 2, cuhyucfeymzw.com
 2, cui3875.xyz
@@ -49474,6 +49594,7 @@ routing = 2
 2, culsaids.xyz
 2, culsucqivn.in
 2, cultameban.click
+2, cultchrumexwhat.cyou
 2, cultergoy.com
 2, cultismcanty.space
 2, cultivated-cell.com
@@ -49571,6 +49692,7 @@ routing = 2
 2, cuqtrlibylbiv.website
 2, cuqvlpxjj.xyz
 2, curacoapips.com
+2, curacyphobism.qpon
 2, curalate.com
 2, curarasporrylieve.qpon
 2, curated.fieldtest.cc
@@ -49669,6 +49791,7 @@ routing = 2
 2, curteinbesugo.help
 2, curthkivew.com
 2, curtisbarways.com
+2, curtsylooie.qpon
 2, curtsyluffa.rest
 2, curtworlds.com
 2, curude.com
@@ -49872,6 +49995,7 @@ routing = 2
 2, cutwater39.com
 2, cutzl.authorsuccess.com
 2, cuuasgouqbvse.site
+2, cuublqdogywfx.space
 2, cuutiethm.com
 2, cuuunrzplrqwe.website
 2, cuvedyqs.com
@@ -50389,6 +50513,7 @@ routing = 2
 2, cyq3noz.icu
 2, cyq8vqq9s.com
 2, cyrgflyipwngl.online
+2, cyrgxmvqxddgr.site
 2, cyrigh.com
 2, cyrola.net
 2, cyrxvpnu.com
@@ -50553,6 +50678,7 @@ routing = 2
 2, cztexz.meinungsclub.de
 2, cztexz.nucash.nl
 2, cztmmijwxiafu.click
+2, cztoekunxsxnd.space
 2, cztxjk.forallgifts.com
 2, cztyasclhstsz.space
 2, czuadkhcudkl.com
@@ -52466,6 +52592,7 @@ routing = 2
 2, d65a1fbe58.com
 2, d663q.cn
 2, d67194d3d8.com
+2, d6803eed52.com
 2, d6a206cf07.com
 2, d6b1c430ca.com
 2, d6cto2pyf2ks.cloudfront.net
@@ -52820,6 +52947,7 @@ routing = 2
 2, dadoss.natadotrade.group
 2, dadosvini.seuveiculoprotegido.com.br
 2, dadparty.com
+2, dadpmozvgnvpn.space
 2, dadqcuxqdnecx.space
 2, dads.barbarana.com.br
 2, dads.chamaacademy.com.br
@@ -52981,6 +53109,7 @@ routing = 2
 2, dainaith.net
 2, daineely.net
 2, dainouluph.net
+2, daintilyrare.com
 2, daintynotice.com
 2, daiporno.com
 2, daipsaut.com
@@ -53193,6 +53322,7 @@ routing = 2
 2, dansanthewer.qpon
 2, dansanttina.com
 2, danseurdindled.help
+2, danseurmicerun.qpon
 2, danstr.fun
 2, dantaradiohd.net
 2, dantbritingd.club
@@ -58831,6 +58961,7 @@ routing = 2
 2, daygrumpyexchange.com
 2, daylogs.com
 2, daylongfauves.qpon
+2, daylongrankish.cyou
 2, daynetredeyes.rest
 2, daynkw.architecturaldepot.com
 2, daynrdowrcu.net
@@ -58927,9 +59058,11 @@ routing = 2
 2, dbj.quebecregion.com
 2, dbjgerjoxzdmq.space
 2, dbjnzp.estellabartlett.com
+2, dbkprzeinocag.site
 2, dbkuarzeaepqo.global
 2, dbl.cadriamarketing.com
 2, dblarson.com
+2, dblendcoatings.com
 2, dblks.net
 2, dblmj.shopavara.com
 2, dblowthrou.com
@@ -59219,6 +59352,7 @@ routing = 2
 2, dcqe7gez5.com
 2, dcqs4.com
 2, dcrtb-pixel.com
+2, dcrvlqjzuujpo.website
 2, dcrzz.com
 2, dcs.audi.com
 2, dcs.esprit.at
@@ -59913,6 +60047,7 @@ routing = 2
 2, defenselessclaim.pro
 2, defenseneckpresent.com
 2, defensevest.com
+2, defensive-cross.com
 2, defensive-living.com
 2, defensivearmpit.com
 2, defensiveevidence.pro
@@ -59968,6 +60103,7 @@ routing = 2
 2, deg.ticket-onlineshop.com
 2, degagemalwayaje.cyou
 2, degasdoumas.help
+2, degasssnibellore.cfd
 2, degdsxtptnvjz.website
 2, degenerateabackjaguar.com
 2, degeneratebasket.com
@@ -60497,6 +60633,7 @@ routing = 2
 2, dermagrumphy.shop
 2, dernergrampus.shop
 2, derningthunor.cyou
+2, dernsulcate.qpon
 2, derodetains.qpon
 2, derowalius.com
 2, derrybonedry.com
@@ -60518,6 +60655,7 @@ routing = 2
 2, desaguaro.saguaro.com
 2, desalthuns.com
 2, desaltsallo.help
+2, desaltssakers.com
 2, desb.fkapi.net
 2, desb.mspaceads.com
 2, descarga.veikul.com
@@ -60711,6 +60849,7 @@ routing = 2
 2, detuns.com
 2, deturbcordies.com
 2, deturbsparged.help
+2, detuvqvvxfxrk.online
 2, deude.ltd
 2, deukmyunderth.org
 2, deut1.fdj.fr
@@ -61210,6 +61349,7 @@ routing = 2
 2, dgvbcr.martinellipesca.com.br
 2, dgvhzcxksncni.website
 2, dgvkrt.xyz
+2, dgvtjvskwgtvs.site
 2, dgw7ae5vrovs7.cloudfront.net
 2, dgwa.getsnoozy.com
 2, dgwa.snoozygummies.com
@@ -61274,7 +61414,6 @@ routing = 2
 2, dhdaa.duke.edu
 2, dhddv.rarevinyl.com
 2, dhdebdmvzljbk.site
-2, dhduc.com
 2, dheblxw.com
 2, dheear.site
 2, dheheagbmhdfk.space
@@ -61939,6 +62078,7 @@ routing = 2
 2, diiodocanvassjussive.cyou
 2, diipxa.roadtechmarine.com.au
 2, diiurvdpkowra.site
+2, diiwgqipveujy.website
 2, dijapu.xyz
 2, dijrtichfghgw.site
 2, dijuvxuzjhkrb.website
@@ -62110,6 +62250,7 @@ routing = 2
 2, diorismmotes.website
 2, diouidlf98.com
 2, diouy9cvtx.xyz
+2, dioxanepenname.cfd
 2, dioxidtoluyls.com
 2, dip.pyangzi.com
 2, dip.zgydjr.com
@@ -62137,6 +62278,7 @@ routing = 2
 2, diptersowar.website
 2, dipwsxfgtliob.online
 2, dipylontheriac.cfd
+2, diqamvrcqyonxt.com
 2, diqartxheos.com
 2, diqftdf1fp8u.cloudfront.net
 2, diqjitlusjki.com
@@ -62468,6 +62610,7 @@ routing = 2
 2, disintegrateredundancyfen.com
 2, disipxnziqeql.website
 2, diskaa.com
+2, diskdem.cfd
 2, diskedpollet.cyou
 2, diskeryaffixer.com
 2, disklaimer.ru
@@ -62886,6 +63029,7 @@ routing = 2
 2, djv99sxoqpv11.cloudfront.net
 2, djvbrjtpqbikw.com
 2, djvby0s5wa7p7.cloudfront.net
+2, djvjrpkompxzb.online
 2, djwcmdxfqfyoq.website
 2, djwf0dl2q9i99.cloudfront.net
 2, djwyp.aritzia.com
@@ -63562,6 +63706,7 @@ routing = 2
 2, dnjdwrkwxtduw.website
 2, dnjfj3f4gg3.greeting.dk
 2, dnjj.mobi
+2, dnjjsaftgijjc.space
 2, dnjsiye.com
 2, dnjuijdqxhzka.site
 2, dnjxds.top
@@ -63778,6 +63923,7 @@ routing = 2
 2, dog.rejuvenateyouohio.com
 2, dog.streameon.com
 2, dog89nqcp3al4.cloudfront.net
+2, dogblowenjoyer.com
 2, dogbodywm.cfd
 2, dogbushlithoed.click
 2, dogcbhkupqzor.website
@@ -63875,6 +64021,7 @@ routing = 2
 2, dolgoruka.link
 2, dolhuvumjpzwv.website
 2, doliumacutely.shop
+2, doljgiqeluhvm.site
 2, doljqrkgovqce.website
 2, doll8tune.com
 2, doll9jiva.com
@@ -64152,6 +64299,7 @@ routing = 2
 2, dornickconduce.qpon
 2, dornrusky.com
 2, dorothydrawing.com
+2, dorsalapp.com
 2, dorserhypnum.qpon
 2, dorsitan.shop
 2, dorsulachiplet.com
@@ -64302,6 +64450,7 @@ routing = 2
 2, doupuer.com
 2, douqdymwthuosr.com
 2, dousecalm.click
+2, dousfhlyp.com
 2, dousingnoggen.qpon
 2, doutaupsoa.net
 2, douthosh.net
@@ -64349,6 +64498,7 @@ routing = 2
 2, downknottily.com
 2, downladingsite.com
 2, downlaod.xiaocen.com
+2, downliegonophcymba.cfd
 2, download-adblock-zen.com
 2, download-alert.com
 2, download-ready.net
@@ -64508,6 +64658,7 @@ routing = 2
 2, dphheyqbwgaau.online
 2, dphpycbr.com
 2, dphunters.com
+2, dpicywjxpgn.com
 2, dpidqeyalnpgn.online
 2, dpiixydxabnkh.site
 2, dpijohb.icu
@@ -64765,6 +64916,7 @@ routing = 2
 2, dratblissfully.com
 2, dratetillage.com
 2, dratewisents.cyou
+2, dratexalt.com
 2, dratingmaject.com
 2, dratio.com
 2, drato.xyz
@@ -64967,6 +65119,7 @@ routing = 2
 2, drivenetwork.ru
 2, drivenicysecretive.com
 2, driveniq.com
+2, drivenmove.com
 2, driver.dctaxi.com
 2, driver.jugnoo.in
 2, driverequest.com
@@ -65437,6 +65590,7 @@ routing = 2
 2, dsmaed.com
 2, dsmbdi.com
 2, dsmcfq.com
+2, dsmcgefzygalu.online
 2, dsmcnw.com
 2, dsmdvf.com
 2, dsmgww.com
@@ -66099,6 +66253,7 @@ routing = 2
 2, duepose.com
 2, duesdoand.com
 2, duetads.com
+2, duetcode.com
 2, duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
 2, dufai4b1ap33z.cloudfront.net
 2, dufbut.wtennis.com.br
@@ -66329,6 +66484,7 @@ routing = 2
 2, dustmanrearer.click
 2, dustoordebated.cfd
 2, dustuckiodates.cfd
+2, dustupmonger.cyou
 2, dustydime.com
 2, dustyhammer.com
 2, dustymural.com
@@ -66809,6 +66965,7 @@ routing = 2
 2, dwyngjb.icu
 2, dwzhyllh.com
 2, dwztkzptvisct.site
+2, dwzymufmsgzlj.online
 2, dx.mountain.com
 2, dx.thermo.com
 2, dx.thermofisher.com
@@ -66838,7 +66995,6 @@ routing = 2
 2, dxh2ivs16758.cloudfront.net
 2, dxhrbqrt.com
 2, dxiilazmsqprw.online
-2, dxix.cn
 2, dxizep.liniilubvi.ru
 2, dxj6cq8hj162l.cloudfront.net
 2, dxjkpofscuzmb.online
@@ -67062,6 +67218,7 @@ routing = 2
 2, dzienkudrow.com
 2, dzihsqn.icu
 2, dzisou.com
+2, dziytaruejcdv.space
 2, dzizsih.ru
 2, dzjegcogtzqou.online
 2, dzjgwhtqttqfx.website
@@ -68349,6 +68506,7 @@ routing = 2
 2, ecbwemnff3.com
 2, eccentricsterilizevastness.com
 2, ecchhelios.top
+2, ecchvrxiftetv.website
 2, ecclesbacalaoahi.cyou
 2, eccmdrazvyrgj.space
 2, ecctjf.leroymerlin.com.br
@@ -68944,6 +69102,7 @@ routing = 2
 2, edqcwkyitviom.space
 2, edqmrt.spinlife.com
 2, edqonucyjsayy.website
+2, edqugeczobhjz.space
 2, edqwztrptkdna.online
 2, edrakiber.com
 2, edrbgcvw.dynaudio.com
@@ -69425,7 +69584,6 @@ routing = 2
 2, efsuoodjpyxew.space
 2, efsy7b1x6.com
 2, eftbmbcyhiwvt.site
-2, eftd.cn
 2, eftfwfhupm.net
 2, efthjcbyvbhci.space
 2, eftsalexinetwitch.cyou
@@ -69818,6 +69976,7 @@ routing = 2
 2, eitfromthe.com
 2, eitful.com
 2, eitgun.com
+2, eitherpincher.qpon
 2, eitics.com
 2, eitilbyr.com
 2, eitish.com
@@ -69877,6 +70036,7 @@ routing = 2
 2, ejevika.com
 2, ejexgcirsdwvx.online
 2, ejfeng.com
+2, ejfiynnbu.com
 2, ejfmnj.drcomfort.com
 2, ejfstrkmgwrql.site
 2, ejfuh.com
@@ -69984,6 +70144,7 @@ routing = 2
 2, ekekpmucahnti.site
 2, ekerududeyuqb.space
 2, ekexrskdlybio.website
+2, ekezgklfayvyd.space
 2, ekfqaxxwnmqdb.website
 2, ekfwof.finnishdesignshop.fi
 2, ekfzoxzbcnwvv.site
@@ -70110,6 +70271,7 @@ routing = 2
 2, elbowrevolutionary.com
 2, elbowsmouldoral.com
 2, elbqvcoqdsido.online
+2, elbvlyqj.com
 2, elclaq.icu
 2, elcoastlinecall.com
 2, elcqk.mytriorings.com
@@ -70224,6 +70386,7 @@ routing = 2
 2, elgreco.openapp.link
 2, elgust.com
 2, elhclr.com
+2, elhmeatpdwjfs.online
 2, elia.thermofisher.com
 2, elianicben.com
 2, eliaoutbawl.com
@@ -70640,6 +70803,7 @@ routing = 2
 2, eludmmaymbkgj.com
 2, eluhlhjv.life
 2, elupe.spartan.com
+2, eluqvijxickdj.space
 2, elusiveanxiouslyruns.com
 2, elusivebreeze.com
 2, elusivecascade.com
@@ -70663,6 +70827,7 @@ routing = 2
 2, elyandbegantoti.com
 2, elymuscostate.com
 2, elyses.fr
+2, elysiumbrandy.com
 2, elysvo.elysvo.com
 2, elytronkantele.shop
 2, elyvbqkmlqkqw.top
@@ -70683,6 +70848,7 @@ routing = 2
 2, em.touchtunes.com
 2, em.u.net.home24.de
 2, em1.linlandet-vollen.no
+2, em4mzyvbiy.com
 2, em4ywcow6ugpc4qq7itl.rest
 2, em6802.musesapp.com
 2, em7ky342lo.com
@@ -71099,6 +71265,7 @@ routing = 2
 2, embulkglommed.com
 2, embushloaners.rest
 2, embwmpt.com
+2, embwonailybgm.space
 2, emc.dr-stick.shop
 2, emcalliance.vmware.com
 2, emcawgwtndyq.com
@@ -71166,6 +71333,7 @@ routing = 2
 2, emgthroposit.org
 2, emgthropositeas.info
 2, emgwq.com
+2, emgzqqfkqypbg.website
 2, emhdaflhdjcdf.site
 2, emhjekwvkwnvz.website
 2, emhmopnxdcjwd.site
@@ -71279,6 +71447,7 @@ routing = 2
 2, empower.actionforstammeringchildren.org
 2, empowerlocal.co
 2, empowertranslatingalloy.com
+2, emprisebuccatecappy.cyou
 2, emptem.com
 2, emptierkimchi.life
 2, emptinessabjure.com
@@ -71294,6 +71463,7 @@ routing = 2
 2, emqrjjveqnjab.top
 2, emqrjjveqnnav.top
 2, emqrjjveqnnjw.top
+2, emqsqruu.com
 2, emqvwujfjknkbg.com
 2, emraudpeptone.com
 2, emrdnt.sumaity.com
@@ -71385,7 +71555,6 @@ routing = 2
 2, enaenasiftage.com
 2, enageronyonswizzens.cyou
 2, enahmy.xyz
-2, enakslot.bio
 2, enalsk.click
 2, enalytics.fr
 2, enamelhurdleunpaid.com
@@ -72137,6 +72306,7 @@ routing = 2
 2, enuewasadirectres.info
 2, enurecebil.qpon
 2, enuresdairi.com
+2, enuringunarmsunride.cfd
 2, enuwulwgsbicx.website
 2, env9orp3wiz7jpw.cfd
 2, envayeconfort.cyou
@@ -72295,6 +72465,7 @@ routing = 2
 2, eostvofsqqsvi.site
 2, eot27ufppouqm3wq.cfd
 2, eotaioa.xyz
+2, eotsqgnmmzwnv.space
 2, eou01a.cn
 2, eoucn.lovehoney.com
 2, eousnkffnnbes.space
@@ -72852,6 +73023,7 @@ routing = 2
 2, erqndwzejjkkc.online
 2, erqnkptmllgwm.online
 2, err.ifengcloud.ifeng.com
+2, errandchavish.cfd
 2, erranddealing.com
 2, errandfourteenthcatering.com
 2, errandsfloes.help
@@ -73119,6 +73291,7 @@ routing = 2
 2, espub.fr
 2, esputnik.com
 2, espy.boehs.org
+2, esqbgiygzhsmy.space
 2, esqjac.costakreuzfahrten.de
 2, esqxrp.bonprix-fl.be
 2, esrh-defender.pro
@@ -73139,6 +73312,7 @@ routing = 2
 2, essedaauding.com
 2, essencereferencetummy.com
 2, essencesnore.com
+2, essenisfinally.cfd
 2, essential-trash.com
 2, essential.awmcash.com
 2, essentialpiece.pro
@@ -73195,6 +73369,7 @@ routing = 2
 2, estream.xyz
 2, estrich.estrichoplossingen.nl
 2, estrinuprise.guru
+2, estriolzenith.cfd
 2, estrumsrenish.qpon
 2, estuary98.top
 2, estuarybethel.cfd
@@ -73543,6 +73718,7 @@ routing = 2
 2, etvkgeiukxtep.site
 2, etvurlcoygadl.site
 2, etwdpgjsvdqzk.site
+2, etwitelowser.qpon
 2, etwiterehedge.rest
 2, etwiwgnnyouvw.space
 2, etwmijxejhqrr.site
@@ -74436,6 +74612,7 @@ routing = 2
 2, eversales.space
 2, every-abuse.com
 2, every-broad.com
+2, everybodycollecteagle.com
 2, everybodycreeduphill.com
 2, everydayhomeless.com
 2, everydayporn.co
@@ -74609,6 +74786,7 @@ routing = 2
 2, ewd.powermoves.com.au
 2, ewderhovered.qpon
 2, ewdk.cn
+2, ewdsiqssjxytx.site
 2, ewe.loudcrowd.com
 2, ewea.fr
 2, ewebcounter.com
@@ -74621,6 +74799,7 @@ routing = 2
 2, eweriesisidia.cfd
 2, ewesgabbier.com
 2, ewesmedia.com
+2, ewestrebaseshaykh.cfd
 2, ewetrotreset.com
 2, ewfarp.kappa.com
 2, ewfashuomphim.website
@@ -74858,6 +75037,7 @@ routing = 2
 2, excitingwill.pro
 2, excitonharpers.space
 2, exclaimwhirlpoolcredential.com
+2, exclamalcyon.com
 2, exclamationresound.com
 2, exclamatory77.top
 2, exclkplat.com
@@ -75276,6 +75456,7 @@ routing = 2
 2, extra33.com
 2, extrablocks.ru
 2, extraconventional.com
+2, extracover.net
 2, extractdissolve.com
 2, extractfirmer.qpon
 2, extractforgiveness.com
@@ -75467,6 +75648,7 @@ routing = 2
 2, eyq3nog.icu
 2, eyqbpifffccdc.net
 2, eyqbvz.greysonclothiers.com
+2, eyqkpep11zh3kqxqyr.cfd
 2, eyqsrrwmvhavp.website
 2, eyquvllh.com
 2, eyrarbuggers.com
@@ -75976,6 +76158,7 @@ routing = 2
 2, factquicker.com
 2, factsbumbles.qpon
 2, factsheetgrievancekeg.com
+2, faculaegluciddanae.qpon
 2, facultativethus.com
 2, facultycoffeehouseharp.com
 2, facundapogenylandmen.cyou
@@ -76097,6 +76280,7 @@ routing = 2
 2, failingforce.pro
 2, failingrainful.website
 2, failingrole.pro
+2, faillouvre.com
 2, failuremaistry.com
 2, faintbedub.life
 2, faintdefrost.com
@@ -76648,6 +76832,7 @@ routing = 2
 2, fastview.co.kr
 2, fastwavehilltop.com
 2, fastwebcounter.com
+2, faswobmmaqjqe.site
 2, fat1domain1.com
 2, fatal-police.pro
 2, fatal-scratch.pro
@@ -76774,6 +76959,7 @@ routing = 2
 2, faylesconjoin.qpon
 2, fayprjmlhxpnl.website
 2, fayseely.cyou
+2, faysijqvaasxw.site
 2, fayuau.barkyn.com
 2, fazanppq.com
 2, fazedtriers.com
@@ -76887,6 +77073,7 @@ routing = 2
 2, fbnimeaujrbup.website
 2, fbnrl.glamnetic.co.uk
 2, fbo-statistics-collector-tc.is.flippingbook.com
+2, fbobeokyiqbjz.online
 2, fboirhttd.com
 2, fbolloiwd.com
 2, fbookisrael.com
@@ -76936,6 +77123,7 @@ routing = 2
 2, fbvbrb.icu
 2, fbviet88.com
 2, fbvskv3.com
+2, fbvsttmkxrqoy.site
 2, fbwtqsajsuuji.store
 2, fbxyuleyktun.com
 2, fbycnk.chiaki.vn
@@ -77649,6 +77837,7 @@ routing = 2
 2, fertilitywailceramic.com
 2, ferukentaspect.info
 2, ferukentaspects.com
+2, ferularfirmerauncel.qpon
 2, feruleucoid.com
 2, fervcbytncxaj.icu
 2, ferventhoaxresearch.com
@@ -77856,6 +78045,7 @@ routing = 2
 2, fflemfnsehvfj.space
 2, fflsn.com
 2, fflsviyvjpcwn.site
+2, fflvibejrazhp.online
 2, ffmemberrship-garena.com
 2, ffmembershipggarena.com
 2, ffmenbershipgarena.com
@@ -77869,6 +78059,7 @@ routing = 2
 2, ffortyimagist.info
 2, ffpmlheychmat.store
 2, ffponnvhnttoh.online
+2, ffpvy3jqupc4rinuukf9f9mx416zx.rest
 2, ffqtjwwhupcg.com
 2, ffqumyjlunpga.online
 2, ffre.ffrepair.com
@@ -78008,6 +78199,7 @@ routing = 2
 2, fguhyg.cn
 2, fgujp.whataroom.com
 2, fgukchz.icu
+2, fgupxsisyhsmx.online
 2, fgvdd.nectarsleep.com
 2, fgwerg.top
 2, fgwgw.429men.com
@@ -79110,6 +79302,7 @@ routing = 2
 2, fissilescyphae.cfd
 2, fistdoggie.com
 2, fistevasionjoint.com
+2, fistfulrilly.qpon
 2, fistofzeus.com
 2, fistpoke.com
 2, fistsurprising.com
@@ -79191,6 +79384,7 @@ routing = 2
 2, fixablequay.cfd
 2, fixatestali.help
 2, fixatifslinger.com
+2, fixavcha.in
 2, fixbonus.com
 2, fixbreakthrough.com
 2, fixchidie.com
@@ -79228,6 +79422,7 @@ routing = 2
 2, fizzersfullersinit.cyou
 2, fizzyacerbitymellow.com
 2, fj95560.com
+2, fjabklctbwxey.site
 2, fjakau.innonature.eu
 2, fjalsr83a6.com
 2, fjatbrfhe.com
@@ -80067,6 +80262,7 @@ routing = 2
 2, fmgoal.com
 2, fmgqdplqohfct.space
 2, fmgxqcxzpfbel.click
+2, fmhcigxhmfeiy.space
 2, fmheoodt.com
 2, fmhy.net
 2, fmhzi.ergopouch.com.au
@@ -80280,6 +80476,7 @@ routing = 2
 2, focas.jp
 2, focath.com
 2, foccqbujbfcyj.love
+2, focipalaeic.com
 2, focmapdykirqw.site
 2, foco.achadinhos.n1promos.com.br
 2, foco.atacado.n1promos.com.br
@@ -80326,6 +80523,7 @@ routing = 2
 2, foflib.org
 2, fog.pixual.co
 2, fogayeown.com
+2, fogegtcddjlsi.site
 2, foggilysmearer.shop
 2, foggytube.com
 2, foghorndash.com
@@ -80552,6 +80750,7 @@ routing = 2
 2, forbiddenuneasy.com
 2, forbitnebris.uno
 2, forbledpukras.top
+2, forbroken.com
 2, forcapi.naturesnestgoa.com
 2, force24.co.uk
 2, forcealetell.com
@@ -80613,6 +80812,7 @@ routing = 2
 2, forestsshampoograduate.com
 2, foreststobaccodecember.com
 2, forestwo1f.ltd
+2, forestysavory.qpon
 2, foretasteailnod.com
 2, foretellfifth.com
 2, forethema.com
@@ -80709,6 +80909,7 @@ routing = 2
 2, form.promerica.com.do
 2, form.vocalink.com
 2, formaciones.arin-innovation.com
+2, formafore.com
 2, formalcrock.digital
 2, formalhood.com
 2, formalitydetached.com
@@ -81033,6 +81234,7 @@ routing = 2
 2, foxx.to
 2, foxypp.com
 2, foybdfdodvgva.rocks
+2, foymduhsapxqx.space
 2, foysal.desishad.com
 2, foysencourts.shop
 2, foysramoon.cfd
@@ -81407,6 +81609,7 @@ routing = 2
 2, fqqok.zipstring.com
 2, fqrbsgwelcypat.com
 2, fqrghb.hotcircle.net
+2, fqrhtcqgxhryb.website
 2, fqrukpjaahukp.com
 2, fqsecure.com
 2, fqskuzqwpgu.com
@@ -81735,6 +81938,7 @@ routing = 2
 2, freeinvisiblecounters.com
 2, freeiphone.info
 2, freeipoduk.co.uk
+2, freekacoupons.com
 2, freelanced.fr
 2, freelaptopreward.com
 2, freelienquan2021.com
@@ -81928,6 +82132,7 @@ routing = 2
 2, frierinputs.cfd
 2, frierpiles.click
 2, friezyagush.shop
+2, frigglesansar.com
 2, frightened-half.com
 2, frightenedcraft.com
 2, frightenedpotato.com
@@ -82199,6 +82404,7 @@ routing = 2
 2, fsbyjvefmuibs.space
 2, fscareers.epoise.com
 2, fscareerstest.epoise.com
+2, fscbzvahooyqd.space
 2, fscfbfrof.com
 2, fscookie.penetrator.jp
 2, fsd2.digital
@@ -82408,6 +82614,7 @@ routing = 2
 2, ftvmvbzsaqizd.space
 2, ftvsgjbdbzwip.site
 2, ftvszarpfvecjf.com
+2, ftvurcsskqjey.space
 2, ftwawfsjadhjm.online
 2, ftwftsvmssggs.online
 2, ftwnwght.net.anwalt.de
@@ -82522,6 +82729,7 @@ routing = 2
 2, fuhhg.tanaorjewelry.com
 2, fuhoftoajoabs.net
 2, fuhrerssubbase.cyou
+2, fuhsazvwkhrpc.site
 2, fuhtb.puckaclub.com
 2, fuhuikang360.com
 2, fuhzuajqwcmyl.site
@@ -82787,6 +82995,7 @@ routing = 2
 2, fusionquest.com
 2, fusiontechnology.arrow.com
 2, fusionwishful.com
+2, fuskcituainlaw.cyou
 2, fusoidactuate.com
 2, fusrv.com
 2, fussboden-elsenhans.de
@@ -83051,6 +83260,7 @@ routing = 2
 2, fx-trend.com
 2, fx.fixfy.eu
 2, fx0blb9zp4.com
+2, fx19n8ygk1kb46o853hx5z63f.rest
 2, fx455rrt4b.com
 2, fx6j3.cn
 2, fx8rurzhbf.com
@@ -83082,6 +83292,7 @@ routing = 2
 2, fxfhjs.com
 2, fxfifv.icu
 2, fxfomm.tegeldepot.nl
+2, fxfzwyftfaeeh.site
 2, fxgate.baidu.com
 2, fxghyhcifmyel.store
 2, fxgkhf.ponroy.com
@@ -83749,6 +83960,7 @@ routing = 2
 2, gadhx.cn
 2, gadlralwoa.com
 2, gadmagckfy.com
+2, gadnsohyud.com
 2, gads.goldebet.bet.br
 2, gads.homecompany-moebel.com
 2, gadsabs.com
@@ -83888,6 +84100,7 @@ routing = 2
 2, galbancrummie.com
 2, galeaeevovae.com
 2, galeindelicatedrove.com
+2, galeoidclachsjubbah.cyou
 2, galeoidmuddish.cfd
 2, galepush.net
 2, galgkaaqhxhuz.world
@@ -84381,6 +84594,7 @@ routing = 2
 2, gau.gaudium.dk
 2, gau.groobee.io
 2, gaubaisteelaze.net
+2, gaubtrcstyrwt.online
 2, gaucysalamo.life
 2, gaudetehoazin.com
 2, gaudfulthrum.website
@@ -84426,6 +84640,7 @@ routing = 2
 2, gautdower.cfd
 2, gauthawhum.com
 2, gautmont.fr
+2, gauuoeqxgbjvb.site
 2, gauvaiho.net
 2, gauzedisparage.com
 2, gauzeexterminatesupervise.com
@@ -84466,7 +84681,6 @@ routing = 2
 2, gaywaymetamer.com
 2, gayxperience.com
 2, gaz-help.ru
-2, gaza-88.com
 2, gaza2lote.com
 2, gazaboretally.click
 2, gazanew.com
@@ -84542,6 +84756,7 @@ routing = 2
 2, gbgr.hedgy-heckenpflanzen.ch
 2, gbgvq.stitchery.com
 2, gbgxceugaznsc.site
+2, gbgxunkbiouty.space
 2, gbhbfosvxplgs.space
 2, gbhozynxmyxos.online
 2, gbhuhxxjzdbqn.site
@@ -84552,6 +84767,7 @@ routing = 2
 2, gbiltuj8w.com
 2, gbitcoin.cn
 2, gbizxljbrlhjf.space
+2, gbjjoknrxwhwu.space
 2, gbkncsvtnhkvsdv.net
 2, gbl.radware.com
 2, gbl007.com
@@ -84629,6 +84845,7 @@ routing = 2
 2, gcbnb.pourri.com
 2, gcbtgh26.xyz
 2, gcbwrj.e-cadeiras.com.br
+2, gccdigaixnjow.site
 2, gccmembershiprewards.americanexpress.de
 2, gccmembershiprewards.americanexpress.it
 2, gccode.gongchang.com
@@ -84856,6 +85073,7 @@ routing = 2
 2, gdndfwsfzrkci.website
 2, gdnewx.nzbembalagens.com.br
 2, gdnkdthyotnkk.site
+2, gdnkgpkosvjkb.online
 2, gdnmpkvslbckh.xyz
 2, gdnzwa.sofftshoe.com
 2, gdolghljsbysz.site
@@ -85351,6 +85569,7 @@ routing = 2
 2, gepvgv.icu
 2, geqedmme.com
 2, geqetreadyf.com
+2, geqfjznyijsft.online
 2, geqxgljzocqbu.store
 2, geqzt6tkg.top
 2, ger.canine-review.org
@@ -85923,6 +86142,7 @@ routing = 2
 2, gft2.de
 2, gftgbrixcmukd.site
 2, gftgg.flewdstresscare.com
+2, gftidukiy.com
 2, gftkofhnz.com
 2, gftkvlbymvdty.website
 2, gftlexvemldjk.online
@@ -86574,6 +86794,7 @@ routing = 2
 2, gingeryproette.cfd
 2, ginglesmaists.cyou
 2, gingubbin.com
+2, ginkgomolebut.qpon
 2, ginmon.efscle.com
 2, ginnertruancy.cfd
 2, ginningconant.com
@@ -86898,11 +87119,13 @@ routing = 2
 2, gkmjovbmwuldf.site
 2, gkmohklyjyh.com
 2, gknpinykaom.net
+2, gkoggdacnhzrg.site
 2, gkopqp.coccodrillo.eu
 2, gkoutpips.com
 2, gkpblxyup.xyz
 2, gkpkbsggajdn.com
 2, gkpvuyrgbbzu.com
+2, gkrrvo5tlvtpe2e.rest
 2, gkrtmc.com
 2, gkrycdtueicc.com
 2, gkryjuqq3.com
@@ -86956,6 +87179,7 @@ routing = 2
 2, gladredooch.net
 2, gladthereis.org
 2, gladysway.com
+2, glafltgmovxot.online
 2, glaftedroag.net
 2, glaghuckudou.net
 2, glaicmolry.net
@@ -87044,6 +87268,7 @@ routing = 2
 2, glauxoaw.xyz
 2, glauxtxteltvi.space
 2, glaverinsea.shop
+2, glavhnwuadguq.online
 2, glaxauglaufy.net
 2, glaxaukr.net
 2, glazegha.com
@@ -87087,6 +87312,7 @@ routing = 2
 2, gleanergummata.cfd
 2, gleanerstealth.cfd
 2, glebesfacsim.rest
+2, glebouscellae.cyou
 2, glecjwgrihxui.site
 2, glecmaim.net
 2, glededeceits.life
@@ -87433,6 +87659,7 @@ routing = 2
 2, glugreez.com
 2, gluhagnaicmoa.net
 2, gluiesttubelet.shop
+2, gluingwatson.cyou
 2, glukropi.com
 2, glulaupookr.net
 2, glum-bake.pro
@@ -87441,6 +87668,7 @@ routing = 2
 2, glumeseyrir.cfd
 2, glumifo.ru
 2, glummydactyli.qpon
+2, glumosealmehs.qpon
 2, glumrevenue.com
 2, glumsynemasmitham.cyou
 2, glumtitu.net
@@ -89289,6 +89517,7 @@ routing = 2
 2, gossephelleri.cyou
 2, gossipcase.com
 2, gossipfinestanalogy.com
+2, gossippinnae.cfd
 2, gossipprotectioncredentials.com
 2, gossipsbollywoods.com
 2, gossipsize.com
@@ -89862,6 +90091,7 @@ routing = 2
 2, gravelyjovialelemental.com
 2, gravenesswomanlesszestfully.com
 2, gravenosiered.qpon
+2, gravenpicked.com
 2, graveuniversalapologies.com
 2, gravhuppah.qpon
 2, gravicjibbs.com
@@ -90509,6 +90739,7 @@ routing = 2
 2, grzhwl.adiamor.com
 2, grzjoribntqek.site
 2, grzrxyvbxfsok.online
+2, grztgxwndnhbz.site
 2, gs-ad.jp
 2, gs.andrerochastudio.com.br
 2, gs.milkywalk.dk
@@ -90789,6 +91020,7 @@ routing = 2
 2, gtchong.com
 2, gtcntr.enamya.me
 2, gtcslt-di2.com
+2, gtcsuqgbseydn.online
 2, gtdevtaxtmarn.space
 2, gtdwcttwvpxdn.online
 2, gte.baecker.eu
@@ -96530,6 +96762,7 @@ routing = 2
 2, guatoanovernetunami.cfd
 2, guayabinakoo.qpon
 2, gubgonx.cn
+2, gubmethxscdh.com
 2, gubopedruph.com
 2, gubryccd.elbsand.com
 2, gucci.wingsfit1.com
@@ -97079,6 +97312,7 @@ routing = 2
 2, gwyltsmdekpgt.space
 2, gwynorxqqcqxg.site
 2, gwyorodtr.com
+2, gwyqupvtyqzy.in
 2, gwzpb.liberator.com
 2, gx-target-experiments-frontend-api.gx.nvidia.com
 2, gx.idg.se
@@ -97139,6 +97373,7 @@ routing = 2
 2, gxordgtvjr.com
 2, gxowuybbwgfjv.site
 2, gxozdwttsqtqp.website
+2, gxpxmamikdcdq.space
 2, gxqakqcvwsubt.site
 2, gxqcdnbbribw.com
 2, gxqfgqhllmhhx.space
@@ -97702,6 +97937,7 @@ routing = 2
 2, haikarerate.qpon
 2, haikcarlage.com
 2, haikhetonian.qpon
+2, haikswhips.cyou
 2, haikusoap.com
 2, haikwanbizel.cyou
 2, hailbrunchsharpen.com
@@ -97867,6 +98103,7 @@ routing = 2
 2, hambul.com
 2, hamdxateq.com
 2, hamelffebwwdi.online
+2, hamelmug.cfd
 2, hameltnoummos.com
 2, hamestaretscravo.cyou
 2, hamestoyman.website
@@ -98536,6 +98773,7 @@ routing = 2
 2, haypaydig.club
 2, hayrackreflow.qpon
 2, hayrakeginnet.cfd
+2, haytimedanios.cfd
 2, haywarn.com
 2, hayweb.net
 2, hayyad.com
@@ -98809,6 +99047,7 @@ routing = 2
 2, hcustqsrachmm.space
 2, hcuukwgpjiykapf.xyz
 2, hcuvb.ordolife.com
+2, hcuxbayrklcgk.space
 2, hcvfamwgpqgfn.com
 2, hcvqpttiicilq.site
 2, hcvxyojezpol.com
@@ -99317,6 +99556,7 @@ routing = 2
 2, helandsca.cfd
 2, helanpinpai.com
 2, helcoidcorban.cfd
+2, heldholi.cyou
 2, heldsadness.com
 2, helenadomba.cfd
 2, heleric.com
@@ -99771,243 +100011,3 @@ routing = 2
 2, hffdjxnyxckf.xyz
 2, hfflpff.corinnaundandreas.com
 2, hffttk.sandro-paris.ru
-2, hffxc.com
-2, hffxfbuartqzw.online
-2, hfggttxptxwdmb.com
-2, hfgno.happyhairbrush.com.au
-2, hfgvzpatnjoti.website
-2, hfhgbhqkxfwv2x.cfd
-2, hfhmqcggyjcne.online
-2, hfhytx.xyz
-2, hfib5s-sdds-248d.xyz
-2, hficukpfywa.in
-2, hfikijarghc.in
-2, hfisngksng.com
-2, hfjayqpjryxel.online
-2, hfjcr.qalo.com
-2, hfjhr.cn
-2, hfjk3wa.com
-2, hfjsbf.xyz
-2, hfjuki.com
-2, hfjxmall.com
-2, hfk128dfs-dsfbheuoys.xyz
-2, hfk7j.top
-2, hfkncj-qalcg.top
-2, hfkndunzsoohv.store
-2, hfknoftkkkmbi.space
-2, hfl.honestforeclosure.com
-2, hflaxbnxpcqwq.online
-2, hflcolyyf.xyz
-2, hflex03yh.com
-2, hflflbargcuje.website
-2, hfljdidxbksmo.site
-2, hflksbttglwou.com
-2, hflpchbqhobkg.website
-2, hflxmfjkugjeh.site
-2, hfmnwlqgodd.net
-2, hfmogh.piatradesign.ro
-2, hfmphs.loccitane.com
-2, hfmuu.zoonatie.com
-2, hfnbifvitqx.net
-2, hfnfoupaytndf.space
-2, hfnqekvwlswebdc.com
-2, hfnuqljjnt.com
-2, hfnxsdjtwyopi.site
-2, hfnzhczqgdp.com
-2, hfoghh.inter.it
-2, hfolmr.office-com.jp
-2, hfomzuujinjel.online
-2, hfopewkdgmcal.site
-2, hfopteyhgqeas.online
-2, hforuvqrgyvbspi.xyz
-2, hfpwcx.supermercadosmas.com
-2, hfqarnolmm.com
-2, hfqdipw.cn
-2, hfqhcepjidvok.website
-2, hfqsgcclxlvll.online
-2, hfqxp.jparkers.co.uk
-2, hfqxrivbvubyz.store
-2, hfr67jhqrw8.com
-2, hfr8l4ebdt.com
-2, hfresgtyytjncvvh.com
-2, hfrjo.blacklabbrands.com
-2, hfrkamhoz.com
-2, hfrmetlbzovrr.com
-2, hfsecdrzfdsry.club
-2, hfsevu.simonds.com.au
-2, hfsijlilwfwgu.online
-2, hfsmoyooeywgq.site
-2, hfsqpkalpdyio.space
-2, hfsst.homefeeling.co.uk
-2, hfsteel.net
-2, hftccw.mrso.jp
-2, hftciwcfqrotx.online
-2, hfttufu4jo.top
-2, hftxbq.top
-2, hftzrg.123pneus.be
-2, hfufkifmeni.com
-2, hfusiuuqknbwy.site
-2, hfvhrbkblzxlq.site
-2, hfvkn.dalstrong.com
-2, hfvnfhhixpnjd.online
-2, hfvura.noriel.ro
-2, hfwkdnclwtrsy.space
-2, hfwld.cn
-2, hfwsqihrrqhpf.online
-2, hfx9iljey2x9vbenobl.cfd
-2, hfxs01il.com
-2, hfxvwhstgitib.site
-2, hfyavgagbiidq.site
-2, hfyunaiqwrobn.site
-2, hfyuo5qmrhm1zc4.cfd
-2, hfyxdl.com
-2, hfzfnasjbmthr.website
-2, hfzkfwdqw.com
-2, hg-bn.com
-2, hg-labs.com
-2, hg.holzgestein.com
-2, hg237nbher.com
-2, hg417.bet
-2, hg5858.net
-2, hg89038.com
-2, hg89068.com
-2, hg89078.com
-2, hg8dc7bm.com
-2, hga.yescolours.com
-2, hgads.com
-2, hgagwcznmclhv.store
-2, hgame.com
-2, hgazlt.bonjoursagan.com
-2, hgbasics.com
-2, hgbdjawazluzd.site
-2, hgbdprpi.com
-2, hgbn.rocks
-2, hgbn.space
-2, hgbn1.com
-2, hgbnr.com
-2, hgbqowuzgonia.website
-2, hgbqsxuptruuf.website
-2, hgbvnvscpcgub.website
-2, hgcmnews.pro
-2, hgcnivwtrbcab.online
-2, hgcnjlxajzrja.site
-2, hgcs.ironsidecomputers.com
-2, hgcustom-ad.xyz
-2, hgcuvolqqolld.site
-2, hgdanbas.cn
-2, hgdfx.skivys.com
-2, hgearlpfbm.top
-2, hgeepechncyte.space
-2, hgehse.site
-2, hgesqwfqw.online
-2, hgf4.zanzicar.fr
-2, hgf8hck.com
-2, hgff11.com
-2, hgfflsrymeivf.site
-2, hgffm.romancewasborn.com
-2, hgfosqroovvpw.website
-2, hgfsdzfs.com
-2, hggcovkyhosxz.click
-2, hggxww.megadumptiel.nl
-2, hghaa.roxy.com
-2, hghit.com
-2, hghjks2.com
-2, hghm4u7b61.com
-2, hghngh.com
-2, hghuegejrukmo.site
-2, hgiaef.site
-2, hgiafe.site
-2, hgijycxp.com
-2, hgiri.peridonentertainment.com
-2, hgisekhkuhrlo.online
-2, hgjjk45.com
-2, hgjsctxsvwcvb.site
-2, hgjzcbndztijy.website
-2, hgk0mu8irw.com
-2, hgktxmzzmijdo.space
-2, hgkxvgfbt.com
-2, hgmclmhx.xyz
-2, hgmggiozinfbi.store
-2, hgmiyn.cyfra.eu
-2, hgmkewerrzxqu.online
-2, hgmzheldmvurn.space
-2, hgnngm.kano.me
-2, hgo06041uyi.com
-2, hgo06050uyi.com
-2, hgo06060uyi.com
-2, hgo06061uyi.com
-2, hgo7r.cn
-2, hgodftnaeacbd.site
-2, hgoesd.sportit.com
-2, hgofcd.com
-2, hgolecgocxwio.space
-2, hgomernmawabx.website
-2, hgovh.worldfamoustattooink.com
-2, hgovyniielsax.site
-2, hgoxvtdgfcdlg.website
-2, hgozscldnhflb.website
-2, hgpdoa.cn
-2, hgpmbfkxmrw.xyz
-2, hgprha.mizalle.com
-2, hgreils.com
-2, hgrjhnxgxhiyt.site
-2, hgrjjsqaet.com
-2, hgrotlvuifgms.site
-2, hgrqp.com
-2, hgruknobpq.com
-2, hgrwjpvuzitjx.website
-2, hgsly.buzz
-2, hgssnpbuoh.com
-2, hgtasizbgvjdn.website
-2, hgtczdcptoidc.site
-2, hgtnv.bvnk.com
-2, hgtpidptdpxmo.space
-2, hgtvp.laithwaites.com
-2, hguac.com
-2, hguas.com
-2, hgub2polye.com
-2, hgubxzfpolbf.com
-2, hgusler.com
-2, hgvigqjolbnnt.store
-2, hgwkgddzhtbac.space
-2, hgwyblahchick.cyou
-2, hgx1.online
-2, hgx1.site
-2, hgx1.space
-2, hgxwhpba.xyz
-2, hgyaneeqozbcd.website
-2, hgzbggfwgqvcd.space
-2, hgzqxe.hanesbrandsinc.jp
-2, hgzqyoxssozyp.space
-2, hh.jiankang.com
-2, hh04040aoik.com
-2, hh04041aoik.com
-2, hh04050aoik.com
-2, hh6666.com
-2, hh6820123.com
-2, hh788.com
-2, hh7lj32z7igoj57.cfd
-2, hhb123.tk
-2, hhba03201kdh.com
-2, hhba03210kdh.com
-2, hhba03211kdh.com
-2, hhba03221kdh.com
-2, hhba03230kdh.com
-2, hhbehcahhajfffciaaef.world
-2, hhbetevelthyg.site
-2, hhbxcs.tylko.com
-2, hhbypdoecp.com
-2, hhcj.co.uk
-2, hhcktiucw.xyz
-2, hhcqjifspiqrd.online
-2, hhcskj.com
-2, hhdfk.startrepairingcredit.com
-2, hhdfwrsoaohsf.space
-2, hhdjcabafaejaibaaaeg.world
-2, hhdus.com
-2, hhecta.com
-2, hhelrn.calobye.com
-2, hhepwzpsjkkms.site
-2, hhfat.vitacost.com
-2, hhfer.patagonia.com
-2, hhff111222.com
