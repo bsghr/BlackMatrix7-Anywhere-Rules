@@ -2,10 +2,10 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: BlackMatrix7 Surge Lan 局域网规则
 # SOURCE-FORMAT: surge
-# RULES: 140
-# SOURCE-RULES: 140
+# RULES: 142
+# SOURCE-RULES: 142
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Lan/Lan.list
-# UPSTREAM-UPDATED: 2026-04-14 02:28:00
+# UPSTREAM-UPDATED: 2026-10-20 05:59:47
 # SKIPPED: 0
 
 name = Lan
@@ -13,6 +13,8 @@ routing = 0
 2, asusrouter.com
 2, instant.arubanetworks.com
 2, local.adguard.org
+2, localhost.weixin.qq.com
+2, localhost.work.weixin.qq.com
 2, oasisauth.h3c.com
 2, router.asus.com
 2, setmeup.arubanetworks.com
