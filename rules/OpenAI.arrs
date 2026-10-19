@@ -1,10 +1,10 @@
 # NAME: OpenAI
 # GENERATED-FOR: Anywhere Routing Rule Set
-# DESCRIPTION: OpenAI 规则
-# SOURCE-FORMAT: shadowrocket
+# DESCRIPTION: BlackMatrix7 Surge OpenAI 规则
+# SOURCE-FORMAT: surge
 # RULES: 34
 # SOURCE-RULES: 35
-# SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/OpenAI/OpenAI.list
+# SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/OpenAI/OpenAI.list
 # UPSTREAM-UPDATED: 2025-06-06 09:20:00
 # SKIPPED: 1
 # SKIPPED-TYPES: IP-ASN=1

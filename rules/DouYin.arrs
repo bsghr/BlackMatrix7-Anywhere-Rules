@@ -1,0 +1,25 @@
+# NAME: DouYin
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: BlackMatrix7 Surge DouYin 抖音规则
+# SOURCE-FORMAT: surge
+# RULES: 13
+# SOURCE-RULES: 13
+# SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/DouYin/DouYin.list
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+# SKIPPED: 0
+
+name = DouYin
+routing = 1
+2, lf3-static.bytednsdoc.com
+2, v5-dy-o-abtest.zjcdn.com
+2, amemv.com
+2, douyincdn.com
+2, douyinpic.com
+2, douyinstatic.com
+2, douyinvod.com
+2, idouyinvod.com
+2, ixigua.com
+2, ixiguavideo.com
+2, pstatp.com
+2, snssdk.com
+2, toutiao.com
