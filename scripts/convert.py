@@ -10,11 +10,11 @@ import urllib.request
 from pathlib import Path
 
 
-# Anywhere rule type mapping:
+# Anywhere 规则类型映射
 # DOMAIN / DOMAIN-SUFFIX -> 2
-# DOMAIN-KEYWORD        -> 3
-# IP-CIDR               -> 0
-# IP-CIDR6              -> 1
+# DOMAIN-KEYWORD         -> 3
+# IP-CIDR                -> 0
+# IP-CIDR6               -> 1
 TYPE_MAP = {
     "DOMAIN": 2,
     "DOMAIN-SUFFIX": 2,
@@ -35,11 +35,13 @@ def download(url: str) -> str:
     with urllib.request.urlopen(request, timeout=60) as response:
         return response.read().decode("utf-8-sig")
 
+
 def load_source(source: str) -> str:
     if source.startswith(("http://", "https://")):
         return download(source)
 
     return Path(source).read_text(encoding="utf-8-sig")
+
 
 def parse_metadata(lines: list[str]) -> dict[str, str]:
     metadata: dict[str, str] = {}
@@ -62,8 +64,13 @@ def parse_metadata(lines: list[str]) -> dict[str, str]:
 
 
 def detect_format(source_url: str) -> str:
+    """根据规则源 URL 识别格式。"""
+
     if "/AdGuard/" in source_url:
         return "adguard"
+
+    if "/Surge/" in source_url:
+        return "surge"
 
     if source_url.endswith("_Domain.list"):
         return "shadowrocket-domain"
@@ -98,7 +105,12 @@ def normalize_domain(value: str) -> str | None:
     if domain.startswith("."):
         domain = domain[1:]
 
-    if not domain or "*" in domain or "?" in domain or "/" in domain:
+    if (
+        not domain
+        or "*" in domain
+        or "?" in domain
+        or "/" in domain
+    ):
         return None
 
     return domain
@@ -107,7 +119,12 @@ def normalize_domain(value: str) -> str | None:
 def normalize_keyword(value: str) -> str | None:
     keyword = value.strip().lower()
 
-    if not keyword or "*" in keyword or "?" in keyword or "/" in keyword:
+    if (
+        not keyword
+        or "*" in keyword
+        or "?" in keyword
+        or "/" in keyword
+    ):
         return None
 
     return keyword
@@ -117,25 +134,33 @@ def parse_adguard(line: str):
     if not line or line.startswith("!"):
         return None, None
 
-    # AdGuard exception rules cannot be represented
-    # by a simple positive Anywhere rule.
+    # AdGuard 例外规则不能直接表示为普通正向规则。
     if line.startswith("@@"):
         return None, "EXCEPTION"
 
-    # AdvertisingLite uses:
-    # ||example.com^
+    # 支持 ||example.com^ 格式。
     match = re.fullmatch(
         r"\|\|([A-Za-z0-9._-]+)\^",
         line,
     )
 
     if match:
-        return (2, match.group(1).lower()), None
+        domain = normalize_domain(match.group(1))
+
+        if domain:
+            return (2, domain), None
 
     return None, "UNSUPPORTED"
 
 
 def parse_shadowrocket(line: str):
+    """
+    解析逗号分隔的规则。
+
+    Surge 和 Shadowrocket 的常见规则均采用该解析方式。
+    只转换 Anywhere 支持的规则类型。
+    """
+
     if not line or line.startswith("#") or line.startswith("//"):
         return None, None
 
@@ -145,7 +170,7 @@ def parse_shadowrocket(line: str):
         return None, "UNKNOWN"
 
     rule_type = fields[0].upper()
-    value = fields[1]
+    value = fields[1].strip()
 
     anywhere_type = TYPE_MAP.get(rule_type)
 
@@ -168,7 +193,15 @@ def parse_shadowrocket(line: str):
 
         return (3, normalized), None
 
-    return (anywhere_type, value.strip()), None
+    if rule_type in {"IP-CIDR", "IP-CIDR6"}:
+        if not value:
+            return None, rule_type
+
+        # IP 规则可能带有 no-resolve 等附加参数。
+        # Anywhere 输出仅保留规则类型和 CIDR 值。
+        return (anywhere_type, value), None
+
+    return None, rule_type
 
 
 def parse_shadowrocket_domain(line: str):
@@ -178,7 +211,6 @@ def parse_shadowrocket_domain(line: str):
     value = line.strip()
 
     # DOMAIN-SET 中以 "." 开头的项目表示域名后缀。
-    # Anywhere 对 DOMAIN 和 DOMAIN-SUFFIX 均采用类型 2。
     if value.startswith("."):
         value = value[1:]
 
@@ -199,7 +231,10 @@ def parse_line(line: str, source_format: str):
     if source_format == "shadowrocket-domain":
         return parse_shadowrocket_domain(line)
 
-    return parse_shadowrocket(line)
+    if source_format in {"surge", "shadowrocket"}:
+        return parse_shadowrocket(line)
+
+    return None, "UNKNOWN-FORMAT"
 
 
 def make_header(
@@ -230,36 +265,27 @@ def make_header(
         )
 
     skipped_count = sum(skipped.values())
-
-    header.append(
-        f"# SKIPPED: {skipped_count}"
-    )
+    header.append(f"# SKIPPED: {skipped_count}")
 
     if skipped:
         summary = ", ".join(
             f"{key}={value}"
             for key, value in sorted(skipped.items())
         )
-
-        header.append(
-            f"# SKIPPED-TYPES: {summary}"
-        )
+        header.append(f"# SKIPPED-TYPES: {summary}")
 
     if total_parts is not None and total_parts > 1:
-        header.append(
-            f"# PART: {part}/{total_parts}"
-        )
+        header.append(f"# PART: {part}/{total_parts}")
 
     return header
 
 
 def remove_old_outputs(destination: Path):
+    # 删除旧主文件。
     destination.unlink(missing_ok=True)
 
-    pattern = (
-        f"{destination.stem}_*"
-        f"{destination.suffix}"
-    )
+    # 删除旧分片，避免规则数量变化后残留过期文件。
+    pattern = f"{destination.stem}_*{destination.suffix}"
 
     for old_part in destination.parent.glob(pattern):
         old_part.unlink(missing_ok=True)
@@ -282,8 +308,6 @@ def write_outputs(
         exist_ok=True,
     )
 
-    # 删除旧的主文件和旧分片，避免规则数量变化后
-    # 仓库中残留过期分片。
     remove_old_outputs(destination)
 
     if not rules:
@@ -304,14 +328,11 @@ def write_outputs(
     outputs = []
 
     for index, part_rules in enumerate(parts, start=1):
-
         if total_parts == 1:
             part_name = name
             part_path = destination
-
         else:
             part_name = f"{name}_{index:02d}"
-
             part_path = destination.with_name(
                 f"{destination.stem}_{index:02d}"
                 f"{destination.suffix}"
@@ -374,7 +395,9 @@ def write_outputs(
 
 
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description="Convert Surge, Shadowrocket or AdGuard rules to Anywhere format."
+    )
 
     parser.add_argument(
         "--name",
@@ -409,14 +432,10 @@ def main():
         lines = source_text.splitlines()
 
         metadata = parse_metadata(lines)
-
-        source_format = detect_format(
-            args.source
-        )
+        source_format = detect_format(args.source)
 
         rules: list[tuple[int, str]] = []
         skipped: dict[str, int] = {}
-
         source_rule_count = 0
 
         for raw in lines:
@@ -425,15 +444,12 @@ def main():
             if not line:
                 continue
 
-            # 统计实际规则行，不统计元数据。
+            # 统计实际规则行，不统计注释和元数据。
             if source_format == "adguard":
                 if line.startswith("!"):
                     continue
             else:
-                if (
-                    line.startswith("#")
-                    or line.startswith("//")
-                ):
+                if line.startswith("#") or line.startswith("//"):
                     continue
 
             source_rule_count += 1
@@ -448,11 +464,7 @@ def main():
 
             elif skipped_type:
                 skipped[skipped_type] = (
-                    skipped.get(
-                        skipped_type,
-                        0,
-                    )
-                    + 1
+                    skipped.get(skipped_type, 0) + 1
                 )
 
         outputs = write_outputs(
@@ -464,9 +476,7 @@ def main():
             rules=rules,
             source_rule_count=source_rule_count,
             skipped=skipped,
-            upstream_updated=metadata.get(
-                "UPDATED"
-            ),
+            upstream_updated=metadata.get("UPDATED"),
             routing=args.routing,
         )
 
@@ -483,10 +493,7 @@ def main():
                 "Skipped types: "
                 + ", ".join(
                     f"{key}={value}"
-                    for key, value
-                    in sorted(
-                        skipped.items()
-                    )
+                    for key, value in sorted(skipped.items())
                 )
             )
 
@@ -497,7 +504,6 @@ def main():
             f"ERROR: {args.name}: {exc}",
             file=sys.stderr,
         )
-
         return 1
 
 
