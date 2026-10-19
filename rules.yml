@@ -1,74 +1,52 @@
 rules:
-
   - name: Advertising
-    format: shadowrocket
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Advertising/Advertising.list
+    format: surge
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Advertising/Advertising_All.list
     output: rules/Advertising.arrs
     routing: 2
-    description: Advertising 广告拦截规则
+    description: BlackMatrix7 Surge Advertising 广告拦截规则
 
-  - name: Advertising_Domain
-    format: shadowrocket-domain
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Advertising/Advertising_Domain.list
-    output: rules/Advertising_Domain.arrs
-    routing: 2
-    description: Advertising 域名广告拦截规则
+  - name: Lan
+    format: surge
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Lan/Lan.list
+    output: rules/Lan.arrs
+    routing: 0
+    description: BlackMatrix7 Surge Lan 局域网规则
+
+  - name: Apple
+    format: surge
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Apple/Apple_All.list
+    output: rules/Apple.arrs
+    routing: 1
+    description: BlackMatrix7 Surge Apple 规则
 
   - name: ChinaMax
-    format: shadowrocket
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax.list
+    format: surge
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/ChinaMax/ChinaMax_All.list
     output: rules/ChinaMax.arrs
     routing: 0
-    description: ChinaMax 中国大陆规则
+    description: BlackMatrix7 Surge ChinaMax 中国大陆规则
 
-  - name: ChinaMax_Domain
-    format: shadowrocket-domain
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list
-    output: rules/ChinaMax_Domain.arrs
-    routing: 0
-    description: ChinaMax 域名规则
+  - name: DouYin
+    format: surge
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/DouYin/DouYin.list
+    output: rules/DouYin.arrs
+    routing: 1
+    description: BlackMatrix7 Surge DouYin 抖音规则
 
   - name: OpenAI
-    format: shadowrocket
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/OpenAI/OpenAI.list
+    format: surge
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/OpenAI/OpenAI.list
     output: rules/OpenAI.arrs
     routing: 1
-    description: OpenAI 规则
+    description: BlackMatrix7 Surge OpenAI 规则
 
   - name: Spotify
-    format: shadowrocket
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Spotify/Spotify.list
+    format: surge
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Spotify/Spotify.list
     output: rules/Spotify.arrs
     routing: 1
-    description: Spotify 规则
-
-  - name: Twitter
-    format: shadowrocket
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Twitter/Twitter.list
-    output: rules/Twitter.arrs
-    routing: 1
-    description: Twitter 规则
-
-  - name: TikTok
-    format: shadowrocket
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/TikTok/TikTok.list
-    output: rules/TikTok.arrs
-    routing: 1
-    description: TikTok 规则
-
-  - name: Facebook
-    format: shadowrocket
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Facebook/Facebook.list
-    output: rules/Facebook.arrs
-    routing: 1
-    description: Facebook 规则
-
-  - name: ChinaMobile
-    format: shadowrocket
-    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/ChinaMobile/ChinaMobile.list
-    output: rules/ChinaMobile.arrs
-    routing: 0
-    description: ChinaMobile 中国移动规则
+    description: BlackMatrix7 Surge Spotify 规则
 
   - name: CustomReject
     format: shadowrocket
