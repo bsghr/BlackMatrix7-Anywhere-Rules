@@ -5,7 +5,7 @@
 # RULES: 1579
 # SOURCE-RULES: 1615
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Apple/Apple_All.list
-# UPSTREAM-UPDATED: 2026-10-26 04:15:00
+# UPSTREAM-UPDATED: 2026-10-28 05:41:06
 # SKIPPED: 36
 # SKIPPED-TYPES: PROCESS-NAME=13, USER-AGENT=23
 
@@ -1203,7 +1203,6 @@ routing = 1
 2, applepaysupplies.tv
 2, applewallet.com
 2, applewallet.tv
-2, appsto.re
 2, appstore.co.id
 2, appstore.com
 2, appstore.hk
@@ -1526,7 +1525,6 @@ routing = 1
 2, wwwipodlounge.com
 2, wwwmacbookair.com
 2, apple.comscoreresearch.com
-2, apple.news
 2, appleenews.com
 2, applemusic.berlin
 2, applemusic.co
@@ -1564,6 +1562,8 @@ routing = 1
 2, wwwapplemusic.com
 2, applemusic.com
 2, apple-dns.net
+2, apple.news
+2, appsto.re
 2, cdn-apple.com
 2, digicert.com
 2, apple-cloudkit.com
